@@ -1,0 +1,36 @@
+https://www.bloomberg.com/news/articles/2017-04-07/gop-said-moving-toward-unenforceable-version-of-net-neutrality
+GOP Said Moving Toward `Unenforceable' Version of Net Neutrality
+A Republican proposal to undo Obama-era net neutrality rules would hand responsibility to prevent abuses by internet service providers to an agency that critics say lacks adequate power.
+
+U.S. Federal Communications Commission Chairman Ajit Pai is said to be planning a proposal to strip his agency of strong authority over broadband and let the Federal Trade Commission police fair treatment of web traffic. Pai outlined the plan in a meeting April 4 with broadband trade groups, two people familiar with the gathering said on Friday. The people requested anonymity because the proposal has not yet been made public.
+
+Exclusive insights on technology around the world.
+Get Fully Charged, from Bloomberg Technology.
+“Given the incentives and abilities of broadband providers to harm internet openness, all Americans should be extremely concerned,” Mignon Clyburn, the sole Democrat among the FCC’s three commissioners, said in an emailed statement. “Press reports suggest this administration’s approach to net neutrality will simply be to ask for unenforceable commitments instead of looking out for the best interests of competitors and consumers.”
+
+The FCC can establish clear rules, while the FTC reacts when companies fall short of promises to consumers, said Gigi Sohn, a fellow at the Open Society Foundations policy group who helped craft the net-neutrality rules while an aide for former FCC Chairman Tom Wheeler.
+
+Companies could simply change their terms of service to evade FTC enforcement, Sohn said.
+
+“Terms of service could change any time,” Sohn said. “At best it’s a temporary promise.”
+
+At issue are net-neutrality rules passed by FCC Democrats in 2015 that bar internet service providers from blocking or slowing web traffic. The agency opted to base its rules in strong legal authority known as Title II -- the same grounding that enables close regulation of telephone providers. 
+
+Pai, a Republican, has said he favors an open internet and opposes Title II. Ending that authority eliminates the chance the FCC could regulate broadband rates -- a power that Democrats who passed the rule said they declined to exercise.
+
+Under the FCC’s Title II claim, internet service providers are common carriers exempt from trade commission authority. If the claim is dropped, the FCC may not be able to enforce its rules and the FTC could step in.
+
+Backers say the FTC is up to the task of policing web-traffic practices.
+
+The agency, which promotes competition, could wield its power if broadband providers abuse their position, Maureen Ohlhausen, the FTC’s acting chairman, said in a January article in the Colorado Technology Law Journal.
+
+“Net neutrality proponents too easily dismiss antitrust,” Ohlhausen wrote. “Antitrust is up to the job.”
+
+“Anticompetitive discrimination would be the exception, rather than the norm, and when it materializes, antitrust enforcement is waiting,” Ohlhausen wrote.
+
+Broadband providers led by AT&T Inc. and Comcast Corp. challenged the FCC’s net neutrality rule last year and lost in a federal appeals court.
+
+Groups at the meeting with Pai included NCTA-the Internet & Television Association, representing cable providers; CTIA, representing wireless providers; and USTelecom, representing AT&T and Verizon Communications Inc., two people familiar with the meeting said.
+
+The plan may be put up for a vote at an FCC meeting set for May 18, said one person familiar with the discussion. Mark Wigfield, an FCC spokesman, declined to comment.
+

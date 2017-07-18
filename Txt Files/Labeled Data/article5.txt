@@ -1,0 +1,69 @@
+3
+https://www.bloomberg.com/politics/articles/2017-04-28/-dynamic-scoring-and-more-tax-terms-to-know-quicktake-glossary
+Pass-Throughs? AMT? Here Are the Tax-Reform Terms You Need to Know
+Few topics in Washington lend themselves to jargon as readily as taxes. President Donald Trump’s drive for tax cuts, though only beginning, is already sending people diving for their dictionaries. Here are some of the terms worth understanding.
+
+As Trump promised, he is focusing on reducing the ...
+
+Corporate Tax Rate
+Like most nations, the U.S. levies a graduated federal tax on the net profits of corporations. Trump’s goal is to slash the top rate to 15 percent, making the U.S. more competitive with the world. Since 1993, the top rate in the U.S. has been 35 percent (which grows to 39.1 percent when state and local corporate taxes are included). That is among the highest in the developed world. But thanks to deductions and credits, few companies pay that amount: In 2012, the effective rate was about 19 percent, according to the Congressional Budget Office.
+
+Trump also wants to slash the tax rates for companies known as ...
+
+Pass-Through Entities
+A business organized as a partnership, limited-liability company or sole-proprietorship reports any profit on its owners’ tax returns -- "passing it through" to them. Taxes on those earnings are set at the individual rate, up to 39.6 percent for incomes above $418,400. Trump’s plan would lower the rate to 15 percent for pass-throughs. Of almost 30 million U.S. companies, about 95 percent are pass-throughs, accounting for about 20 percent of business income. Trump’s proposal could backfire by encouraging high-earning individuals to convert themselves into pass-through companies to get the lower rate. Republican lawmakers talk about pass-throughs as mostly mom-and-pop companies, yet pass-through business income is already concentrated among high earners. Most law firms, hedge funds and real-estate developers, such as the president’s own Trump Organization, are pass-through companies.  
+
+For regular people who don’t have pass-throughs, Trump promises lower tax brackets for income tax, plus elimination of the ...
+
+Alternative Minimum Tax
+The AMT was created in 1979 to make sure very wealthy households can’t take advantage of deductions and credits to the point that they pay little or no federal income tax. But thanks to inflation and the value of certain deductions, such as state and local taxes, some 5 million people now get caught by this minimum tax. (That includes Trump, who paid $38 million in alternative taxes on income of $150 million in 2005, judging by two pages of his leaked tax return.) Despite attempts by Congress to limit the AMT’s reach, the number of affected households continues to grow, along with the AMT’s unpopularity.
+
+Trump would like to eliminate, as well, the ...
+
+Estate Tax
+For Republicans, this is one of the most unpopular parts of the U.S. tax system, which is why they like to call it the "death tax" and emphasize its effect on inheritance of family farms and small businesses. For Democrats, estate taxes are necessary to break up dynastic wealth and help reverse income inequality. Over the next 30 years, U.S. non-spousal heirs are expected to inherit more than $6 trillion. But not many estates pay the tax these days: In 2014, the U.S. collected only $16 billion this way. Current law excludes up to $5.49 million from an individual’s taxes, or $10.98 million for a couple’s. After that, the rate is 40 percent, but there are numerous ways, such as trusts, to shield assets. A 2015 congressional study found that 99.8 percent of U.S. deaths in 2013 triggered no estate tax.
+
+With so many people looking forward to seeing lower tax bills, one question is whether the Trump tax plan can possibly be ...
+
+Revenue Neutral
+This high bar means a proposal has an equal balance of costs and savings, and so will have no net impact on the budget deficit. In his campaign and even recently, Trump had said that his tax plan would be revenue neutral, which suggested it would close enough loopholes and end enough deductions to continue raising the same level of revenue. As outlined, Trump’s plan seems highly unlikely to do that. (One cost estimate has the Trump plan losing between $3 trillion and $7 trillion in tax revenue over a decade.) His team says the cuts will unleash such an economic boom that tax revenues will naturally rise as well. 
+
+This idea, of tax cuts paying for themselves, is held dear by Republicans and rests on an economic theory known as the ...
+
+Laffer Curve
+In 1974, economist Arthur Laffer posited that tax cuts would lead to faster economic growth, higher employment and increased personal income, which would make up for some or all of the lost tax revenue. Others took Laffer’s idea and extended it to mean that tax cuts over time will pay for themselves. Trump’s tax plan buys into this by proposing huge tax cuts without fully offsetting them with spending cuts or tax increases elsewhere in the federal budget. The evidence that Laffer is correct is sketchy: President Ronald Reagan cut taxes deeply, but the deficit increased 255 percent by the time he left office in 1989. President Bill Clinton, on the other hand, raised taxes sharply and ended his second term in 2001 with a balanced budget.
+
+Laffer notwithstanding, Republicans are at least considering methods to raise money to offset lost revenue. Those ideas include a sustained crackdown on ...
+
+Profit Shifting
+U.S. companies use creative methods to avoid paying the top corporate-tax rate of 35 percent. A favorite is to claim income came from a country -- Bermuda, the Cayman Islands and Ireland are popular -- with much lower tax rates. The U.S. taxes companies on their worldwide income, unlike the rest of the developed world; companies, however, can defer paying taxes on offshore profits that are kept outside the U.S. Such tax-avoidance maneuvers cost the U.S. tens of billions of dollars a year. Trump’s plan seeks to address this by lowering the top corporate tax rate to 15 percent and switching the U.S. to a territorial system, which taxes only earnings from U.S. sales. Profits stashed overseas would be hit with a one-time repatriation tax. The Trump outline didn’t specify what that amount might be.
+
+A different revenue-raising idea that has struggled to win Trump’s favor is called a ...
+
+Border-Adjusted Tax
+This idea for a new corporate-tax system, which would tax imports but not exports, is splitting Republicans and their business allies, and Trump didn’t include it in his plan. House Republican leaders favor border adjustments as a way to boost manufacturing and discourage companies from moving offshore. It would work like this: Companies would pay a 20 percent tax on products that are made abroad and sold in the U.S., or made and consumed domestically. Products made in the U.S. and sold abroad would not be taxed. Wal-Mart Stores Inc. and others that depend heavily on low-priced imports to stock their shelves say it would increase costs for their retail customers and could violate trade agreements. Supporters say the higher cost of imports would be offset by a rise in the value of the dollar.
+
+One way around the revenue-neutrality bar is to put a 10-year expiration date on the tax cuts, making them ...
+
+Temporary Tax Cuts
+Like George W. Bush at the start of his presidency in 2001, Trump could specify that his tax cuts will expire in 10 years. This would increase the odds of passage in the U.S. Senate, where budget bills that don’t increase the deficit beyond 10 years can pass with a simple majority vote. Other bills require a 60-vote supermajority; Republicans hold 52 seats. Some businesses may consider a 10-year tax cut too short a period for the long-term commitments they require for investment and expansion decisions. On the other hand, most of Bush’s temporary tax cuts wound up becoming permanent.
+
+So who will decide whether Trump’s plan is revenue-neutral or revenue-diminishing? Expect to hear a lot about the ...
+
+Joint Committee on Taxation
+Get the latest on global politics in your inbox, every day.
+Get our newsletter daily.
+This little-known, non-partisan congressional committee is the highly influential referee of whether a legislative proposal will add to the federal deficit. It has Ph.D economists and accountants on its staff, which is led by Tom Barthold, a former professor of economics at Dartmouth College. The chairmen of the Senate Finance Committee and the House Ways and Means Committee take turns leading the panel. How the committee "scores" Trump’s tax proposal will influence its chances at winning passage in Congress. 
+
+Thanks to a change enacted by Republicans last year, the committee will use a method known as ...
+
+Dynamic Scoring
+Analysts at the joint committee (and at the Congressional Budget Office) must consider how tax or policy changes might affect behavior -- like how raising taxes on cigarettes might reduce sales. This is known as dynamic scoring, and it’s more art than science. Trump says his plan will encourage companies to expand and hire more workers to put in longer hours, which will lead to stronger economic growth and the payment of new taxes, ultimately offsetting the loss of trillions of tax revenue over 10 years. Lots of Democratic economists -- and even some Republican ones -- disagree with that analysis.
+
+The Reference Shelf
+A QuickTake explainer on the U.S. budget deficit.
+A 2016 report by the U.S. Government Accountability Office found that almost one-fifth of large American corporations that made a profit in 2012 paid no federal income tax.
+The conservative Tax Foundation looked at seven tax reforms and found that President Ronald Reagan’s 1981 tax cut had the biggest long-term benefit, 8 percent growth.
+Michael Tanner at the Cato Institute, which favors limited government, says Trump’s corporate tax cuts could eventually mean higher wages for workers.
+The Laffer Curve was first drawn on a dinner napkin.
+

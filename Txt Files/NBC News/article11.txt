@@ -1,0 +1,90 @@
+http://www.nbcnews.com/politics/white-house/seven-takeaways-white-house-s-massive-tax-plan-n751636
+Seven Takeaways From the White House’s ‘Massive’ Tax Plan
+The White House unveiled its principles for tax reform on Wednesday, headlined by big tax cuts for individuals and corporations. Here's what's known about the plan, which Treasury Secretary Steve Mnuchin and National Economic Council director Gary Cohn debuted at a press conference, and its chances of eventually becoming law.
+
+It's only a loose outline
+This isn't like health care, where Speaker Paul Ryan put out a full bill ready to go with the White House's backing. The White House's tax plan leaves out a lot of important details, including basic information like which income ranges would fall into which tax brackets. Mnuchin said it represented their "core principles" but that they would fill in the rest with Congress.
+
+Mad Money's Jim Cramer on Trump's 'Radical' Tax Plan  3:25 
+autoplay   autoplay  
+Copy this code to your website or blog
+It's a lot like Trump's campaign plan
+The details that are known are significant, though, and they strongly resemble the plan Trump ran on late in the campaign. Mnuchin boasted the proposal included "massive tax cuts" that would boost the economy.
+
+For individual taxes, it would shrink the number of brackets to three rates: 10 percent, 25 percent and 35 percent and double the standard deduction.
+
+Related: Here's What We Know About Those Tax Cuts
+
+But it would also raise revenue elsewhere by eliminating all deductions besides the ones on charitable donations and mortgage interest. The most contentious one to go would be the deduction on state and local taxes, which would disproportionately affect people in states and cities with higher tax rates.
+
+For corporate taxes, it would drop the current top rate of 35 percent to just 15 percent. Companies would be taxed under a territorial system in which they're only liable for income earned in America rather than the current worldwide system, which leaves them on the hook for income earned abroad as well.
+
+There would also be an unspecified one-time tax on corporate money held overseas.
+
+Especially notable is that the plan would allow "pass-through" entities, which let business owners treat their revenue as individual income, to qualify for the same 15 percent rate.
+
+It's big
+How big is unclear without more details, but outside groups estimated Trump's relatively similar campaign plan would have cost trillions of dollars and his new one is likely to do the same.
+
+Treasury Secy. Unveils 'Massive' Tax Cuts for Small and Large Businesses  1:43 
+autoplay   autoplay  
+Copy this code to your website or blog
+"I see more candies than vegetables in this," said Alan Cole, an economist at the conservative Tax Foundation. By his rough estimate, the new plan's new cuts would reduce revenues between $4 trillion and $6 trillion over the next decade while its offsets would bring in about $2.5 trillion.
+
+Mnuchin argues the plan will "pay for itself" by raising economic growth, but Cole is skeptical that's the case without significantly limiting its cuts.
+
+Maya MacGuineas, a leading fiscal hawk who heads the non-partisan Committee for a Responsible Federal Budget, accused the White House in a statement of "using economic growth like magic beans" to hide their costs. Her group's early estimate of Trump's plan pegs its cost at $5.5 trillion without further offsets.
+
+People like Trump would benefit a lot
+"Pass-through" entities tend to benefit wealthy people like Trump, whose business empire includes a series of pass-throughs in which profits flow to him. The 15 percent rate would give the rich a giant incentive to route their income through pass-throughs to avoid the much higher 35 percent top rate on individual income.
+
+Mnuchin addressed this and said the White House would find a way to avoid letting wealthy people avoid paying higher rates, but he offered no details and some tax experts are skeptical this would be easy to accomplish in practice.
+
+"Ultimately, wealthy people with the best tax advisers will find ways around those rules," Lily Batchelder, a professor of law and public policy at New York University, told NBC News.
+
+The plan repeals the Alternative Minimum Tax, which is designed to ensure high earners pay at least some taxes even if they claim a large number of deductions. Trump's 2005 tax return, which journalist David Cay Johnston obtained in March, shows he paid $38 million in taxes on $152 million in income, but $31 million of his tax payment was due to the AMT.
+
+By comparison, it's likely the benefits to middle and lower income taxpayers will be much more modest.
+
+While not a perfect comparison, an analysis by the nonpartisan Tax Policy Center of Trump's campaign plan found that the average gains for the top 0.1 percent of earners would be 14 percent of their after-tax income, versus just 1.8 percent for the middle fifth of earners and 0.8 percent for the poorest fifth.
+
+Depending on the details, Batchelder calculated that the proposed changes to deductions could increase taxes for many middle-income and lower-income taxpayers, including single-parent households and families with multiple children.
+
+Trump's tax returns are going to be an issue
+How much would Trump benefit from these changes? There's no way to know for sure.
+
+Trump has refused to make public his tax returns, breaking from decades of White House tradition, and Mnuchin said he had "no intention" to do so in the future. Democrats are already making this lack of information a key criticisms, saying the release of his returns should be a prerequisite for debating a package.
+
+It drops a crucial House Republican idea
+House and Senate GOP leaders put out a statement praising the president's proposals as "critical guideposts" and saying they shared the same goals of lowering rates and simplifying the tax code.
+
+But they're not all on the same page.
+
+Trump's plan abandoned a key part of the House Republican tax plan known as the border adjustment tax, which would have given greater tax preferences to American companies who primarily export goods in comparison to companies who import goods.
+
+The border adjustment tax provision divided the business community, with more import-heavy companies like Wal-Mart opposed and more export-heavy companies like Boeing supportive of the idea, and Republicans were split as well.
+
+But House GOP leaders argued it was necessary to raise revenue to help pay for the lower tax rates. Without it, some are skeptical they can afford deep cuts.
+
+"I'm a big supporter of the (border adjustment tax)," Rep. Chris Collins, R-New York, a key Trump ally, told reporters on Wednesday. "If you take it out, that's all fine and good, but somebody's got to show me its still revenue neutral."
+
+Procedural rules could make it hard to pass
+Many Republicans are, like Trump, happy to assume big GDP growth from tax cuts will take care of concerns about the deficit even if most mainstream economists disagree. But another big reason Republicans are worried about offsetting cuts to corporate tax rates is procedural and it could complicate efforts to pass a bill.
+
+Just as they tried to do with health care legislation, Republicans are using a procedure called budget reconciliation that lets them pass a bill with only a simple majority in the Senate. The advantage is that they don't have to negotiate with Democrats, who Senate Majority Leader Mitch McConnell has said he plans to ignore, but it comes with rules that limit what they can do.
+
+Winners and Losers in Trump's Tax Plan  1:51 
+autoplay   autoplay  
+Copy this code to your website or blog
+In the case of tax reform, the "Byrd Rule" prohibits Congress from passing any reconciliation bill that increases the deficit beyond ten years. This is why the Bush tax cuts, which passed through reconciliation, were only temporary.
+
+So could Trump do the same and settle for a major ten-year cut?
+
+There's actually more potential trouble: even temporary corporate tax cuts might allow companies to roll over savings beyond the ten-year window, thus increasing the deficit and triggering the Byrd Rule, which would scuttle a reconciliation bill.
+
+Ryan's own senior tax counsel, George Callas, warned at a panel discussion last week that the Byrd Rule made temporary tax cuts, even as short as three years, impossible without offsets.
+
+"Not only can that not pass Congress, it cannot even begin to move through Congress," Callas said.
+
+All of this creates a mess that could pit Republicans against the Congressional Budget Office and Joint Committee on Taxation, which normally score legislation, and potentially create a showdown over Senate rules.
+

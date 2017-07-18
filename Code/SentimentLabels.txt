@@ -1,0 +1,2012 @@
+https://www.bloomberg.com/politics/articles/2017-04-24/trump-s-wall-demands-may-decide-whether-100th-day-is-a-shutdown
+neutral 0.8638579310053661
+https://www.bloomberg.com/politics/articles/2017-04-22/trump-s-plans-big-rally-in-pennsylvania-to-mark-100th-day
+neutral 0.89097222221267
+https://www.bloomberg.com/politics/articles/2017-04-22/ryan-tells-colleagues-house-will-act-in-time-to-avoid-shutdown
+neg 0.5361709651872023
+https://www.bloomberg.com/politics/articles/2017-04-22/health-care-vote-likely-in-early-may-house-conservative-says
+neutral 0.8501748858868164
+https://www.bloomberg.com/politics/articles/2017-04-23/mulvaney-says-trump-tax-plan-details-won-t-be-ready-until-june
+pos 0.7377893752695096
+https://www.bloomberg.com/news/articles/2017-04-24/mellower-trump-trade-tone-eases-onus-on-china-to-fill-u-s-void
+neutral 0.8899884412620792
+https://www.bloomberg.com/news/articles/2017-04-23/republican-cracks-emerging-in-trump-s-coal-heavy-energy-plan
+neutral 0.8520827696593778
+https://www.bloomberg.com/politics/articles/2017-04-23/white-house-talks-tough-on-wall-funding-ahead-of-spending-fight
+neutral 0.8583766703973635
+https://www.bloomberg.com/politics/articles/2017-04-24/trump-speaks-to-abe-xi-on-north-korea-amid-u-s-japan-drills
+neutral 0.8891059379217142
+https://www.bloomberg.com/politics/articles/2017-04-24/giuliani-talk-with-erdogan-adds-mystery-to-u-s-sanctions-case
+neutral 0.8734668109668103
+https://www.bloomberg.com/politics/articles/2017-04-24/macron-struggles-in-french-media-spotlight-as-presidency-beckons
+neutral 0.8685944915544135
+https://www.bloomberg.com/politics/articles/2017-05-10/senior-republicans-closing-ranks-behind-trump-after-comey-firing
+neutral 0.8520919820862778
+https://www.bloomberg.com/politics/articles/2017-04-25/u-s-north-korea-flex-military-muscles-as-tensions-remain-high
+neutral 0.8910714109409326
+https://www.bloomberg.com/politics/articles/2017-04-24/trump-advisers-said-set-to-discuss-tax-plan-with-top-republicans
+neutral 0.8866445062466934
+https://www.bloomberg.com/politics/articles/2017-04-24/trump-adviser-gorka-walks-off-stage-at-a-discussion-of-fake-news
+neutral 0.9052331349206026
+https://www.bloomberg.com/politics/articles/2017-04-24/trump-said-to-plan-20-tariff-on-canadian-softwood-lumber-j1wq4tyg
+neutral 0.860582943865782
+https://www.bloomberg.com/politics/articles/2017-04-24/here-are-the-next-seats-republicans-will-have-to-defend-in-special-elections
+neutral 0.8805989891810689
+https://www.bloomberg.com/politics/articles/2017-04-25/china-doubts-u-s-climate-pledge-as-trump-mulls-paris-withdrawal
+neutral 0.8775475028122971
+https://www.bloomberg.com/news/articles/2017-04-24/trump-s-winter-white-house-mar-a-lago-showcased-on-u-s-site
+neutral 0.8719149831649579
+https://www.bloomberg.com/politics/articles/2017-05-10/aetna-is-latest-health-insurer-to-quit-obamacare-markets
+neutral 0.8752552732965505
+https://www.bloomberg.com/politics/articles/2017-04-26/trump-aides-in-raging-debate-over-how-quickly-to-move-on-nafta
+neutral 0.8568443271012303
+https://www.bloomberg.com/politics/articles/2017-04-26/trump-administration-said-to-open-trade-probe-on-aluminum
+neutral 0.8618753974259418
+https://www.bloomberg.com/politics/articles/2017-04-26/talks-to-avert-shutdown-falter-as-trump-digs-in-on-health-funds
+neutral 0.8749241222076579
+https://www.bloomberg.com/politics/articles/2017-04-27/trump-s-corporate-tax-rewrite-faces-major-obstacle-its-cost
+neutral 0.8838093862952525
+https://www.bloomberg.com/politics/articles/2017-04-27/yellen-may-see-inflation-risk-in-deficit-busting-trump-tax-cuts
+neg 0.5825634569509213
+https://www.bloomberg.com/politics/articles/2017-04-27/mnuchin-takes-crash-course-navigating-washington-with-tax-deal
+neutral 0.8823209273950696
+https://www.bloomberg.com/politics/articles/2017-04-26/trump-s-tax-plan-pitches-rate-cuts-for-all-with-scant-detail
+neutral 0.8670727209002879
+https://www.bloomberg.com/politics/articles/2017-04-26/anti-obama-legal-tactics-come-back-to-haunt-trump-on-immigration
+neutral 0.8665769298514215
+https://www.bloomberg.com/politics/articles/2017-04-26/u-s-commander-for-korea-warns-kim-regime-s-nuclear-threat-grows-j1z1s2s4
+neutral 0.8806690360394064
+https://www.bloomberg.com/news/articles/2017-04-26/mnuchin-trump-has-no-intention-of-releasing-tax-returns
+neutral 0.8770359848044391
+https://www.bloomberg.com/politics/articles/2017-04-26/democrats-hit-gop-plan-to-exempt-itself-from-part-of-health-bill
+pos 0.6587976249546377
+https://www.bloomberg.com/politics/articles/2017-04-28/if-gop-can-t-get-this-lawmaker-obamacare-repeal-may-be-dead
+neg 0.5817741761943327
+https://www.bloomberg.com/politics/articles/2017-04-28/house-does-bare-minimum-to-keep-u-s-government-open-next-week
+neutral 0.8856060606036968
+https://www.bloomberg.com/politics/articles/2017-04-28/tillerson-said-to-seek-9-cut-to-u-s-state-department-workforce
+neutral 0.908288599997691
+https://www.bloomberg.com/news/articles/2017-04-28/greenspan-says-trump-has-an-arithmetic-problem-with-his-budget
+neg 0.531213579743499
+https://www.bloomberg.com/news/articles/2017-04-28/u-s-economy-expands-at-slowest-pace-in-three-years
+neutral 0.8645701640062647
+https://www.bloomberg.com/politics/articles/2017-04-27/trump-s-wall-may-not-stretch-entire-border-secretary-kelly-says
+neutral 0.8679724143817795
+https://www.bloomberg.com/politics/articles/2017-04-28/trump-says-good-ties-with-china-more-important-than-taiwan-call
+neutral 0.8579996760428584
+https://www.bloomberg.com/politics/articles/2017-04-28/top-trump-aides-divided-on-paris-climate-pact-as-decision-nears
+neutral 0.9034674979530578
+https://www.bloomberg.com/politics/articles/2017-04-28/trump-to-expand-offshore-drilling-review-deepwater-horizon-regs
+neutral 0.8586093650133749
+https://www.bloomberg.com/politics/articles/2017-04-28/trump-plan-seen-turning-everyone-and-their-dog-into-an-llc
+neutral 0.8701802763446018
+https://www.bloomberg.com/politics/articles/2017-04-28/trump-s-tax-plan-hits-first-land-mine-blue-state-republicans
+neutral 0.8741039774259297
+https://www.bloomberg.com/politics/articles/2017-04-27/trump-said-to-target-carried-interest-and-corporate-tax-breaks
+neutral 0.8982373682955919
+https://www.bloomberg.com/politics/articles/2017-04-28/-dynamic-scoring-and-more-tax-terms-to-know-quicktake-glossary
+neutral 0.8629183966048473
+https://www.bloomberg.com/graphics/2017-trump-100-days-economy/
+neutral 0.8897687533713371
+https://www.bloomberg.com/politics/articles/2017-04-28/trump-rallies-social-conservatives-on-guns-wall-at-nra-meeting
+neutral 0.8739002267558554
+https://www.bloomberg.com/politics/articles/2017-04-28/clean-power-plan-suit-shelved-short-of-resolution-by-u-s-court
+neutral 0.8414673046244184
+https://www.bloomberg.com/politics/articles/2017-04-28/warren-troubled-by-report-of-wall-street-paid-obama-speech
+neutral 0.8829059807505407
+https://www.bloomberg.com/politics/articles/2017-04-28/trump-s-top-candidate-for-n-y-prosecutor-angered-chicago-feds
+neutral 0.8690180248601301
+https://www.bloomberg.com/politics/articles/2017-04-27/business-health-groups-demand-obamacare-funds-in-spending-bill
+neutral 0.8634408458478835
+https://www.bloomberg.com/politics/articles/2017-04-27/puerto-rico-hired-ex-trump-staffer-to-lobby-it-got-mean-tweets
+neutral 0.8965909090768379
+https://www.bloomberg.com/politics/articles/2017-04-27/trump-knows-striking-north-korea-is-last-resort-mccain-says
+neutral 0.8590792207509406
+https://www.bloomberg.com/politics/articles/2017-04-28/trump-tells-reuters-major-conflict-with-north-korea-possible
+neutral 0.8701961580086519
+https://www.bloomberg.com/politics/articles/2017-04-25/trump-s-sanctuary-cities-order-blocked-by-federal-judge
+neutral 0.8737715092553788
+https://www.bloomberg.com/politics/articles/2017-04-17/trump-effect-propels-u-s-house-campaigns-to-fundraising-record
+neutral 0.8698276566186087
+https://www.bloomberg.com/news/articles/2017-04-26/caution-prevails-for-asian-stocks-ahead-of-boj-markets-wrap
+neutral 0.8665898178219403
+https://www.bloomberg.com/politics/articles/2017-04-26/trump-s-15-corporate-tax-seen-as-gambit-as-he-unveils-plan
+neutral 0.8647655839934992
+https://www.bloomberg.com/politics/articles/2017-04-22/mnuchin-calls-imf-s-u-s-forecast-conservative-as-he-chases-3
+neutral 0.924188802377397
+https://www.bloomberg.com/politics/articles/2017-04-26/balance-of-power-trump-s-overseas-tax-grab
+neutral 0.861756776676124
+https://www.bloomberg.com/view/articles/2017-04-26/pelosi-makes-shrewd-case-for-pro-life-democrats
+pos 0.6367614677221611
+https://www.bloomberg.com/view/articles/2017-04-24/-disarray-is-preface-to-power-for-democrats
+neutral 0.8433489640603389
+https://www.bloomberg.com/view/articles/2017-04-25/voters-only-hope-is-a-democratic-congress
+neutral 0.8541282881650035
+https://www.bloomberg.com/view/articles/2017-04-11/how-to-tell-if-democrats-are-gaining-momentum-for-2018
+pos 0.6450763462941642
+https://www.bloomberg.com/politics/articles/2017-04-18/senate-democrats-in-trump-states-double-their-fundraising-pace
+neutral 0.8727656620109253
+https://www.bloomberg.com/politics/articles/2017-04-18/gop-targets-trillion-dollar-tax-breaks-for-democratic-states
+neutral 0.85554794322701
+https://www.bloomberg.com/politics/articles/2017-04-13/democrats-want-guarantee-for-health-subsidies-after-trump-threat
+pos 0.5396402192340312
+https://www.bloomberg.com/politics/articles/2017-04-06/democrats-take-shot-at-trump-by-pouring-money-into-georgia-race
+neutral 0.865709926225391
+https://www.bloomberg.com/news/articles/2017-04-12/trump-still-seeking-to-pass-health-care-bill-before-tax-overhaul
+neutral 0.8905578210985367
+https://www.bloomberg.com/politics/articles/2017-03-30/ryan-wary-of-trump-deal-with-democrats-if-gop-fails-on-obamacare
+neutral 0.8637160986908047
+https://www.bloomberg.com/politics/articles/2017-04-26/gop-bid-to-gut-dodd-frank-renews-debate-over-breaking-up-banks
+neutral 0.8848155398711035
+https://www.bloomberg.com/politics/articles/2017-04-28/merkel-talks-tough-on-migrants-in-foretaste-of-election-campaign
+neutral 0.8944805192257839
+https://www.bloomberg.com/view/articles/2017-04-19/government-shutdown-is-logical-but-not-likely
+neutral 0.8799673233533447
+https://www.bloomberg.com/politics/articles/2017-04-19/may-s-election-set-to-dash-anti-brexit-camp-s-hopes-of-reversal
+neutral 0.8810237672377911
+https://www.bloomberg.com/news/articles/2017-04-21/farmers-have-a-beef-with-trump-and-big-meat
+neutral 0.8517402350735684
+https://www.bloomberg.com/news/articles/2017-04-28/consumer-sentiment-in-u-s-was-little-changed-in-april
+neutral 0.8783924285787905
+https://www.bloomberg.com/politics/articles/2017-04-25/white-house-says-it-s-unable-to-give-flynn-documents-to-house
+neutral 0.9097481786479152
+https://www.bloomberg.com/news/articles/2017-04-16/tax-day-demonstrators-demand-trump-release-taxes
+neutral 0.8878619528618813
+https://www.bloomberg.com/politics/articles/2017-04-24/obama-sees-post-presidential-goal-of-fostering-new-leadership
+neutral 0.9091465045371295
+https://www.bloomberg.com/view/articles/2017-03-31/the-georgia-6th-district-race-could-predict-the-next-election
+pos 0.7800248941544492
+https://www.bloomberg.com/news/articles/2017-04-11/trump-transition-team-faces-spending-review-at-warren-s-urging
+neutral 0.8980639729481843
+https://www.bloomberg.com/politics/articles/2017-04-27/the-new-republican-strategy-to-replace-obamacare-quicktake-q-a
+neutral 0.8551291852885572
+https://www.bloomberg.com/politics/articles/2017-04-20/white-house-gop-leaders-at-odds-over-plans-for-obamacare-vote
+neutral 0.8900017680871531
+https://www.bloomberg.com/politics/articles/2017-04-04/trump-white-house-pushes-new-gop-health-bill-deal-lawmakers-say
+neutral 0.8742107841802301
+https://www.bloomberg.com/news/articles/2017-04-18/universities-seek-to-defend-endowments-from-republican-tax-plan
+neutral 0.8708539942523221
+https://www.bloomberg.com/politics/articles/2017-04-13/trump-moves-against-planned-parenthood-by-signing-gop-measure
+neutral 0.8796626960701879
+https://www.bloomberg.com/politics/articles/2017-04-19/georgia-house-race-heads-to-runoff-as-democrat-gains-in-gop-area
+neutral 0.8887084299326764
+https://www.bloomberg.com/politics/articles/2017-04-07/gop-health-plan-relies-on-cutting-payments-to-doctors-hospitals
+neg 0.5475664088613215
+https://www.bloomberg.com/news/articles/2017-03-30/total-control-is-crippling-the-gop
+neutral 0.8666942288223106
+https://www.bloomberg.com/politics/articles/2017-03-30/trump-in-beginning-phases-of-tax-talk-as-house-mulls-changes
+neutral 0.8810369129405787
+https://www.bloomberg.com/news/articles/2017-04-20/exxon-gets-backing-of-gop-led-states-in-fight-over-climate-probe
+neutral 0.8850945967609269
+https://www.bloomberg.com/politics/articles/2017-04-05/voters-approved-wage-hikes-but-gop-lawmakers-have-other-ideas
+neutral 0.8645744844279385
+https://www.bloomberg.com/politics/articles/2017-03-30/gop-should-go-it-alone-in-easing-wall-street-rules-senator-says
+neg 0.6240123591866242
+https://www.bloomberg.com/news/articles/2017-03-30/republicans-seek-way-to-make-cost-sharing-payments-to-insurers
+neutral 0.8778055761873617
+https://www.bloomberg.com/politics/articles/2017-04-06/senate-gop-ready-to-give-trump-nuclear-win-on-high-court-pick
+pos 0.5602683461361295
+https://www.bloomberg.com/view/articles/2017-04-28/the-only-real-lesson-from-trump-s-100-days
+neg 0.7343143506406078
+https://www.bloomberg.com/news/articles/2017-04-07/gop-said-moving-toward-unenforceable-version-of-net-neutrality
+neutral 0.8813854643741887
+https://www.bloomberg.com/news/articles/2017-04-20/carbon-taxes-gain-conservative-followers
+neutral 0.861666230938801
+https://www.bloomberg.com/news/articles/2017-04-26/anthem-earnings-beat-estimates-as-enrollment-rates-rise
+neutral 0.8695785615469145
+https://www.bloomberg.com/politics/articles/2017-04-01/gop-paid-white-house-s-priebus-almost-500-000-filing-show
+neutral 0.8881944433044175
+https://www.bloomberg.com/politics/articles/2017-04-11/defense-stock-rally-teeters-as-trump-s-plans-encounter-reality
+neutral 0.8803756331871512
+http://www.foxnews.com/politics/2017/04/15/rep-walden-co-author-gops-obamacare-replacement-latest-to-get-town-hall-treatment.html
+neutral 0.8560203328408326
+http://www.foxnews.com/politics/2017/04/18/georgia-race-gop-hits-ossoff-for-living-outside-district-in-final-stretch.html
+neutral 0.8802169312166906
+http://www.foxnews.com/politics/2017/04/18/federal-judge-blocks-bid-to-bring-back-pig-painting-on-capitol-hill.html
+neutral 0.8865343887245615
+http://www.foxnews.com/politics/2017/04/19/chaffetz-announces-will-not-seek-re-election.html
+neutral 0.8448188280632228
+http://www.foxnews.com/politics/2017/04/15/with-syria-and-shutdown-on-table-expect-more-all-nighters-in-congress.html
+neutral 0.8725651068508204
+http://www.foxnews.com/politics/2017/04/15/democrats-post-election-playbook-stay-big-in-california.html
+neutral 0.8493820615775659
+http://www.foxnews.com/politics/2017/04/13/oklahoma-rep-tells-taxpayers-its-bullcrap-to-claim-pay-his-salary.html
+neutral 0.932052694585297
+http://www.foxnews.com/politics/2017/04/13/paul-ryan-s-fire-drill-bid-to-revive-obamacare-repeal-just-for-show.html
+neutral 0.8769700203482147
+http://www.foxnews.com/politics/2017/04/13/gop-rep-calls-for-spicers-resignation-after-hitler-comments.html
+neutral 0.8617283570924982
+http://www.foxnews.com/politics/2017/04/12/congress-expands-unmasking-probe-amid-questions-over-rice-role.html
+neutral 0.9046296296296297
+http://www.foxnews.com/politics/2017/04/11/democrats-turn-on-gabbard-amid-syria-stance.html
+neg 0.50081091148805
+http://www.foxnews.com/politics/2017/04/11/dems-making-close-race-in-kansas-in-1st-congressional-contest-under-trump.html
+neutral 0.8482857141331804
+http://www.foxnews.com/politics/2017/04/07/rep-gabbard-syria-missile-strike-illegal-and-unconstitutional.html
+neutral 0.8862846328821936
+http://www.foxnews.com/politics/2017/04/07/nunes-steps-aside-trump-rips-rice-as-probe-keeps-hitting-potholes.html
+neutral 0.8614641199544021
+http://www.foxnews.com/politics/2017/04/06/ryan-on-obamacare-overhaul-real-progress-being-made.html
+neutral 0.87067982817392
+http://www.foxnews.com/politics/2017/04/06/nunes-steps-down-from-russia-trump-investigation.html
+neutral 0.8890419326354463
+http://www.foxnews.com/politics/2017/04/05/house-gop-gives-attempt-to-revive-obamacare-repeal-mixed-reviews.html
+neutral 0.8706724801122488
+http://www.foxnews.com/politics/2017/04/02/schiff-still-no-definitive-link-between-russia-trump-campaign.html
+neutral 0.8993347050741513
+http://www.foxnews.com/politics/2017/03/30/fearing-voter-backlash-republicans-bullish-again-on-obamacare-repeal.html
+neutral 0.8425352474450577
+http://www.foxnews.com/politics/2017/03/29/congressional-black-caucus-calls-for-ryan-to-pull-nunes-from-house-intel-committee.html
+neutral 0.8519841267510916
+http://www.foxnews.com/politics/2017/03/29/driver-rams-into-capitol-police-cruisers-as-car-chase-ends-in-hill-scare.html
+neutral 0.8670289855012787
+http://www.foxnews.com/politics/2017/04/20/republicans-float-new-obamacare-replacement-plan.html
+neutral 0.8799359849654161
+http://www.foxnews.com/politics/2017/04/20/can-dems-kick-clinton-habit.html
+neutral 0.876817301258642
+http://www.foxnews.com/politics/2017/04/20/dems-new-message-republicans-don-t-give-sh-t.html
+neutral 0.8570425082602501
+http://www.foxnews.com/politics/2017/04/20/irs-anti-fraud-program-plagued-by-delays-costing-taxpayers-millions.html
+neutral 0.8484453640318819
+http://www.foxnews.com/politics/2017/04/20/syrian-government-moves-aircraft-to-russian-base-for-protection.html
+neutral 0.8764682215754437
+http://www.foxnews.com/politics/2017/05/10/comey-tossed-stick-dynamite-into-doj-says-white-house.html
+neutral 0.9060507876089479
+http://www.foxnews.com/politics/2017/04/21/medias-new-question-on-trump-will-talk-us-into-war.html
+neutral 0.8706087883206687
+http://www.foxnews.com/opinion/2017/04/21/sen-paul-rep-walberg-civil-forfeiture-has-ruined-countless-lives-its-long-overdue-for-reform.html
+pos 0.8083700060699819
+http://www.foxnews.com/politics/2017/04/20/trump-says-iran-not-living-up-to-spirit-nuclear-deal.html
+neutral 0.8998084223411685
+http://www.foxnews.com/politics/2017/04/20/trump-orders-probe-foreign-steel-s-impact-on-us-security.html
+neutral 0.9264809463174947
+http://www.foxnews.com/politics/2017/04/20/sarah-palin-kid-rock-ted-nugent-visit-president-trump-at-white-house.html
+neutral 0.8631427342752845
+http://www.foxnews.com/politics/2017/04/20/trumps-celebrity-court-how-spotlight-highlights-every-clash-among-his-aides.html
+pos 0.6903843373355326
+http://www.foxnews.com/politics/2017/04/19/spicer-trump-is-committed-to-conservative-principles-and-agenda.html
+pos 0.8258416789754482
+http://www.foxnews.com/politics/2017/04/19/rob-gronkowski-makes-cameo-at-white-house-press-briefing.html
+neutral 0.8641469930157561
+http://www.foxnews.com/politics/2017/04/18/trump-signs-order-to-clamp-down-on-visa-program-enforce-buy-american-policy.html
+neutral 0.8855747955745968
+http://www.foxnews.com/politics/2017/04/18/trump-illegal-immigrant-criminals-are-getting-hell-out.html
+neg 0.5032912133178609
+http://www.foxnews.com/politics/2017/04/18/trump-to-order-increased-scrutiny-h-1b-visa-program.html
+neutral 0.90255471360127
+http://www.foxnews.com/politics/2017/04/16/trump-blasts-tax-day-protests-says-election-is-over.html
+neutral 0.85176767647541
+http://www.foxnews.com/politics/2017/04/15/trump-gives-generals-more-freedom-to-make-decisions-in-isis-fight.html
+neutral 0.8939184650588684
+http://www.foxnews.com/politics/2017/04/14/trump-plays-hardball-with-dems-on-obamacare-payments.html
+neutral 0.8784378801697974
+http://www.foxnews.com/politics/2017/04/14/bannon-bashing-why-press-is-targeting-trump-aide-as-barely-hanging-on.html
+neutral 0.8466431090113117
+http://www.foxnews.com/politics/2017/04/13/trump-weighs-sanctions-other-measures-against-north-korea.html
+neutral 0.8909271004613456
+http://www.foxnews.com/politics/2017/04/13/trump-sheds-nationalist-coat-as-bannon-wing-chastened.html
+neutral 0.8618541566458232
+http://www.foxnews.com/politics/2017/04/13/spicer-sincerely-apologizes-for-mistake-but-arrogant-united-was-dragged-into-apology.html
+neutral 0.8464204545329975
+http://www.foxnews.com/politics/2017/04/13/white-house-reportedly-has-plans-in-place-to-buildup-deportation-force.html
+neutral 0.8455122654554564
+http://www.foxnews.com/politics/2017/04/12/spicer-trump-values-bannons-commitment-to-team.html
+neg 0.6039047045590485
+http://www.foxnews.com/politics/2017/04/12/trump-says-russia-relations-may-be-at-all-time-low-praises-tillerson-trip.html
+neutral 0.899023809267578
+http://www.foxnews.com/politics/2017/04/12/tillerson-says-us-russia-ties-at-low-point-calls-for-easing-tensions-after-putin-meeting.html
+neutral 0.8768874678849414
+http://www.foxnews.com/politics/2017/04/12/trump-replaces-federal-hiring-freeze-with-agency-cuts-to-end-billions-wasted.html
+neutral 0.857614872005389
+http://www.foxnews.com/politics/2017/04/12/trump-downplays-bannons-campaign-role-amid-reports-infighting.html
+neutral 0.8455611961421328
+http://www.foxnews.com/politics/2017/04/12/report-trump-administration-officials-clashed-with-g7-ministers-over-climate-policy.html
+neutral 0.9159563108923772
+http://www.foxnews.com/politics/2017/04/12/sessions-border-is-not-open-please-dont-come.html
+neutral 0.8479226362283233
+http://www.foxnews.com/politics/2017/04/12/many-government-jobs-to-remain-unfilled-despite-trumps-lift-on-hiring-freeze.html
+neutral 0.8518219425697571
+http://www.foxnews.com/politics/2017/04/11/carter-page-fbi-reportedly-obtained-fisa-warrant-to-monitor-ex-trump-adviser.html
+neutral 0.9084021996521122
+http://www.foxnews.com/politics/2017/04/11/trump-warns-china-on-north-korea-help-solve-problem-or-will.html
+neg 0.5411472154613646
+http://www.foxnews.com/politics/2017/04/11/100-day-watch-why-every-white-house-meeting-seems-to-leak.html
+neutral 0.8477182728548954
+http://www.foxnews.com/politics/2017/04/07/three-democrats-break-ranks-to-support-gorsuch.html
+pos 0.595343384845493
+http://www.foxnews.com/politics/2017/04/07/gorsuch-confirmed-to-supreme-court.html
+pos 0.6240387012051718
+http://www.foxnews.com/politics/2017/04/06/republicans-go-nuclear-bust-through-democratic-filibuster-on-gorsuch.html
+neutral 0.8518534549715905
+http://www.foxnews.com/politics/2017/04/06/what-is-nuclear-option-how-mcconnell-plans-to-get-gorsuch-confirmed.html
+neg 0.5997887028936779
+http://www.foxnews.com/politics/2017/04/03/dems-have-enough-votes-to-filibuster-gorsuch-increasing-odds-nuclear-option.html
+pos 0.8590078082117184
+http://www.foxnews.com/politics/2017/04/03/grassley-pressing-fbis-mccabe-in-trump-russia-dossier-case.html
+neutral 0.8907407407150666
+http://www.foxnews.com/politics/2017/04/03/gorsuch-wins-senate-panel-endorsement-setting-up-floor-showdown.html
+pos 0.5778905785685202
+http://www.foxnews.com/politics/2017/03/30/mccain-north-korea-in-war-words-over-crazy-fat-kid-crack.html
+neg 0.5493004797315049
+http://www.foxnews.com/politics/2017/03/29/senators-expand-russia-investigation-amid-scrutiny-house-probe.html
+neutral 0.8682691240342457
+http://www.foxnews.com/politics/2017/03/28/road-map-to-senates-nuclear-option-for-confirming-gorsuch.html
+neg 0.5068982805541096
+http://www.foxnews.com/politics/2017/04/20/hawaii-lawmakers-slam-sessions-over-remarks-about-travel-ban-judge.html
+pos 0.7165964871499839
+http://www.foxnews.com/politics/2017/04/12/sanders-says-trump-will-be-one-term-president.html
+neutral 0.8574224228794618
+http://www.foxnews.com/politics/2017/03/19/dems-struggle-to-stir-up-energetic-opposition-to-gorsuch.html
+neutral 0.876912930645858
+http://www.foxnews.com/politics/2017/03/16/gop-sen-paul-calls-colleague-mccain-little-bit-unhinged.html
+neutral 0.8617988851234105
+http://www.foxnews.com/politics/2017/04/19/ernst-criticizes-trumps-mar-lago-visits.html
+neutral 0.8813537541835211
+http://www.foxnews.com/politics/2017/04/06/sen-risch-military-action-against-assad-probably-will-take-place.html
+neutral 0.8852312080072693
+http://www.foxnews.com/politics/2017/05/10/comey-fallout-democrats-try-to-disrupt-senate-process-to-get-special-prosecutor.html
+neutral 0.85746401295133
+http://www.foxnews.com/politics/2017/04/04/mitch-mcconnell-gop-evening-score-by-using-nuclear-option-for-gorsuch.html
+neutral 0.8483317287258337
+http://www.foxnews.com/politics/2017/05/10/trump-defends-comey-firing-says-ousted-fbi-director-wasnt-doing-good-job.html
+neg 0.5829856424922921
+http://www.foxnews.com/politics/2017/03/15/senate-votes-to-approve-trumps-picks-for-key-security-posts.html
+neutral 0.886625429265593
+http://www.foxnews.com/politics/2017/03/10/rand-paul-house-gops-obamacare-replacement-is-dead-on-arrival.html
+neg 0.7776369451043803
+http://www.foxnews.com/politics/2017/03/07/graham-gives-trump-his-new-cell-number-in-test-trust.html
+neutral 0.8975757445603927
+http://www.foxnews.com/politics/2017/03/05/cotton-sure-senate-intelligence-panel-will-address-trump-wiretapping-claim.html
+neutral 0.8631766078677073
+http://www.foxnews.com/politics/2017/03/02/sen-mcconnell-hope-to-replace-obamacare-in-next-month-to-six-weeks.html
+neutral 0.8878142295433293
+http://www.foxnews.com/politics/2017/03/02/senate-dems-continue-fight-to-see-trumps-tax-returns-after-house-setbacks.html
+neutral 0.8672222098116703
+http://www.foxnews.com/politics/2017/02/23/how-long-can-trump-hill-republicans-keep-peace.html
+pos 0.574857116617565
+http://www.foxnews.com/politics/2017/02/16/senate-narrowly-confirms-mulvaney-as-trumps-budget-director.html
+neutral 0.8751260777460391
+http://www.foxnews.com/politics/2017/02/16/no-style-points-in-gop-push-to-break-logjam-on-cabinet-picks.html
+neutral 0.856405087286276
+http://www.foxnews.com/politics/2017/02/13/key-senate-ally-grassley-takes-on-trump-white-house-in-twitter-rant.html
+neutral 0.8935823754682212
+http://www.foxnews.com/politics/2017/02/11/democrats-use-only-tactic-delay-to-turn-confirmation-runway-into-parking-lot.html
+neutral 0.8673070462421727
+http://www.foxnews.com/politics/2017/02/09/schumer-and-dems-turn-fire-on-trump-labor-pick-after-sessions-battle-falls-short.html
+neutral 0.8639323563503787
+http://www.foxnews.com/politics/2017/02/01/republicans-push-back-on-trumps-pick-for-education-secretary.html
+neutral 0.8687134445652113
+http://www.foxnews.com/politics/2017/02/01/pelosi-rips-trumps-scotus-pick-as-republicans-weigh-nuclear-option.html
+neutral 0.8488770588762353
+http://www.foxnews.com/politics/2017/01/31/dems-force-vote-delay-on-key-trump-cabinet-picks.html
+neg 0.5327193997582693
+http://www.foxnews.com/politics/2017/01/30/tillerson-clears-senate-procedural-hurdle-democrats-delay-two-trump-nominations.html
+pos 0.6078764527599272
+http://www.foxnews.com/politics/2017/01/29/senate-democrats-bash-trumps-immigration-ban-emotional-schumer-vows-fierce-hill-opposition.html
+neutral 0.9035453872399035
+http://www.foxnews.com/politics/2017/01/26/senates-cabinet-slow-walk-riles-trump-previews-supreme-court-battle.html
+neg 0.5744311032004047
+http://www.foxnews.com/politics/2017/01/19/tensions-flare-over-dem-pushback-on-trump-nominees.html
+neg 0.5987317073332302
+http://www.foxnews.com/politics/2017/05/09/firing-fallout-media-jump-on-trump-for-dumping-comey.html
+pos 0.5652767922380494
+http://www.foxnews.com/politics/2017/04/20/think-tank-with-ties-to-putin-reportedly-had-plans-to-sway-election-in-trumps-favor.html
+neutral 0.9028769826736204
+http://www.foxnews.com/opinion/2017/04/19/democrats-georgia-blunder-resist-trump-is-not-winning-strategy.html
+neutral 0.850470066777516
+http://www.foxnews.com/politics/2017/04/07/us-officials-probing-russias-role-in-syria-chemical-attacks.html
+neutral 0.9044091710740728
+http://www.foxnews.com/politics/2017/02/26/trumps-choice-to-be-secretary-navy-withdraws-nomination.html
+neutral 0.8907231656854385
+http://www.huffingtonpost.com/entry/democrats-pro-life_us_58fcd709e4b06b9cb917a7ee?section=us_politics
+neutral 0.9022568636120019
+http://www.huffingtonpost.com/entry/donald-trump-ap-interview_us_58fdb6fae4b06b9cb917f7ca?section=us_politics
+neutral 0.8514088204268125
+http://www.huffingtonpost.com/entry/donald-trump-supreme-court-dinner_us_58fcfa9be4b018a9ce5c241d?section=us_politics
+neutral 0.8430604003756
+http://www.huffingtonpost.com/entry/congress-returns-to-work-as-deadline-looms-to-avert-government-shutdown_us_58fdf223e4b06b9cb9185184?section=us_politics
+neutral 0.8478891476644347
+http://www.huffingtonpost.com/entry/obama-chicago-live-video_us_58fe0066e4b018a9ce5cedc0?section=us_politics
+neutral 0.8901264524948735
+http://www.huffingtonpost.com/entry/new-survey-shows-bernie-is-right-young-americans-want_us_58fd0314e4b0f420ad99c918?section=us_politics
+neutral 0.8456070551782403
+http://www.huffingtonpost.com/entry/obamacare-repeal-government-shutdown-congress_us_58fcc053e4b06b9cb91795c2?section=us_politics
+neutral 0.8440238319189749
+http://www.huffingtonpost.com/entry/border-wall-mexico_us_58fcb22ce4b018a9ce5bfd6b?section=us_politics
+neutral 0.8618427299013436
+http://www.huffingtonpost.com/entry/jeff-sessions-hawaii-no-apology_us_58fcb373e4b00fa7de1502c3?section=us_politics
+neg 0.5063769465124262
+http://www.huffingtonpost.com/entry/john-kelly-homegrown-terrorism_us_58fcb30ce4b06b9cb9178da7?section=us_politics
+neutral 0.8485859681125613
+http://www.huffingtonpost.com/entry/trump-condemns-anti-semitism-on-israels-holocaust-remembrance-day_us_58fdf48de4b00fa7de15ce21?section=us_politics
+neutral 0.9188463483794522
+http://www.huffingtonpost.com/entry/bernie-sanders-email-list_us_58fcd4cfe4b00fa7de151cf9?section=us_politics
+neutral 0.8585131411801474
+http://www.huffingtonpost.com/entry/hillary-clinton-science-march_us_58fc91d1e4b00fa7de14ff85?section=us_politics
+pos 0.6836033437560929
+http://www.huffingtonpost.com/entry/what-democrats-dont-get-about-trumps-working-class_us_586dc952e4b07888d4813e40?section=us_politics
+neutral 0.8490444173049475
+http://www.huffingtonpost.com/entry/donald-trump-earth-day_us_58fb9b9ee4b06b9cb91759d6?section=us_politics
+neutral 0.880041148590823
+http://www.huffingtonpost.com/entry/mona-hanna-attisha-science-march-washington-us_us_58fb9d50e4b00fa7de14cf0c?section=us_politics
+neg 0.8012788901893744
+http://www.huffingtonpost.com/entry/obamacare-trump_us_58fa7141e4b018a9ce5b621e?section=us_politics
+neutral 0.8640259401136364
+http://www.huffingtonpost.com/entry/bernie-sanders-democratic-unity-omaha-mayoral-candidate_us_58fa63d8e4b00fa7de143e32?section=us_politics
+neutral 0.8539164688358237
+http://www.huffingtonpost.com/entry/trump-100-days-environment-earth-day_us_58f87b68e4b0cb086d7e3175?section=us_politics
+neutral 0.8766718524531024
+http://www.huffingtonpost.com/entry/trump-says-dreamers-shouldnt-worry-statistics-say-otherwise_us_58fa76a9e4b06b9cb916faaa?section=us_politics
+neutral 0.8642148760330578
+http://www.huffingtonpost.com/entry/earth-day-pete-mccloskey-trump_us_58fa3580e4b00fa7de13cdda?section=us_politics
+neutral 0.8794238021320492
+http://www.huffingtonpost.com/entry/trump-business-foreign-profits_us_58fa5475e4b00fa7de141ffa?section=us_politics
+neutral 0.8710090942649013
+http://www.huffingtonpost.com/entry/house-gop-obamacare_us_58f9f308e4b06b9cb915dada?section=us_politics
+pos 0.5901248444868402
+http://www.huffingtonpost.com/entry/omaha-mayoral-candidate-under-fire-says-he-would-never-do-anything-to-restrict-access-to-reproductive-health-care_us_58f8e868e4b018a9ce590a84?section=us_politics
+neutral 0.8641189325971917
+http://www.huffingtonpost.com/entry/trump-clean-water-rule_us_58f8f703e4b00fa7de1232e4?section=us_politics
+neg 0.58860375533105
+http://www.huffingtonpost.com/entry/mark-green-transgender-evil_us_58f8c4cce4b0cb086d7eb012?section=us_politics
+neutral 0.8517658730154697
+http://www.huffingtonpost.com/entry/scott-brown-new-zealand_us_58f8c765e4b0cb086d7eb9fb?section=us_politics
+neutral 0.8730195269821109
+http://www.huffingtonpost.com/entry/donald-trump-judge-gonzalo-curiel_us_58f8ab23e4b070a117507bfb?section=us_politics
+neutral 0.9185626036051082
+http://www.huffingtonpost.com/entry/trumps-war-on-federal-science-will-stifle-innovation_us_58f828aae4b01d4eb1e1695c?section=us_politics
+neutral 0.8707880445647525
+http://www.huffingtonpost.com/entry/the-democratic-partys-anti-bernie-elites-have-a-huge_us_58f8af67e4b01d4eb1e169b7?section=us_politics
+neutral 0.847074809837788
+http://www.huffingtonpost.com/entry/republicans-health-care-deal_us_58f819f7e4b0cb086d7df486?section=us_politics
+neutral 0.8526275921587162
+http://www.huffingtonpost.com/entry/bill-oreilly-trump-sexual-harassment_us_58f789c8e4b029063d360141?section=us_politics
+pos 0.5034722996426507
+http://www.huffingtonpost.com/entry/eric-trump-twitter-mean-people_us_58f570d4e4b0b9e9848dec23?section=us_politics
+neutral 0.8468890691608143
+http://www.huffingtonpost.com/entry/stephen-miller-womens-issues_us_58f0d523e4b0bb9638e331a4?section=us_politics
+neutral 0.8656979677817263
+http://www.huffingtonpost.com/entry/twitter-trump-lawsuit_us_58e6a5a9e4b0585892c9c5ab?section=us_politics
+neutral 0.8586466155936314
+http://www.huffingtonpost.com/entry/trump-travel-tab-dwarfs-obamas_us_58ec5dbde4b0df7e2044b2fe?section=us_politics
+neutral 0.8859396425454181
+http://www.huffingtonpost.com/entry/trump-national-park-week-us_us_58f13e9fe4b0b9e9848c1483?section=us_politics
+neutral 0.8796100143079624
+http://www.huffingtonpost.com/entry/democrats-grassroots-trump-elections_us_58efd21de4b0bb9638e270c1?section=us_politics
+neutral 0.8535239894308518
+http://www.huffingtonpost.com/entry/trump-europe-wrong_us_58f92bcde4b06b9cb91531eb?section=us_politics
+neutral 0.8906184486337718
+http://www.huffingtonpost.com/entry/trumps-speaking-at-nra_us_58f19278e4b0bb9638e433bb?section=us_politics
+neutral 0.8908022018285805
+http://www.huffingtonpost.com/entry/michael-flynn-subpoena_us_591393dae4b030d4f1ef8bfe?utm_hp_ref=us-politics
+neutral 0.8997609430123154
+http://www.huffingtonpost.com/entry/poll-trumps-first-quarter-ratings-lowest-for-a-president-since-wwii_us_58f8e4a4e4b06b9cb9148fd9?section=us_politics
+pos 0.5083226071106859
+http://www.huffingtonpost.com/entry/trump-white-house-anti-semitism_us_58ee6103e4b0cb574bb4e66a?section=us_politics
+neutral 0.8782930975189256
+http://www.huffingtonpost.com/entry/donald-trumps-epa-cuts-are-going-to-hit-black-people-the-hardest_us_58e69a4fe4b07da81324f5ec?section=us_politics
+neutral 0.8598463538334892
+http://www.huffingtonpost.com/entry/donald-trump-steve-bannon_us_58ee9aaae4b0b9e984891ac5?section=us_politics
+neutral 0.8691756989154499
+http://www.huffingtonpost.com/entry/trump-tax-plan_us_58f95f8de4b018a9ce59d665?section=us_politics
+neutral 0.9030269447991914
+http://www.huffingtonpost.com/entry/khizr-khan-tom-perriello_us_58f75fd9e4b05b9d613ebc6f?section=us_politics
+pos 0.7499651978736607
+http://www.huffingtonpost.com/entry/donald-trump-jr-fake-news_us_58f3f344e4b0b9e9848cbd13?section=us_politics
+neg 0.5385726485942598
+http://www.huffingtonpost.com/entry/this-is-what-happens-when-you-try-to-get-congress-high_us_58f922f6e4b00fa7de12a150?section=us_politics
+neutral 0.855335883519181
+http://www.huffingtonpost.com/entry/neil-gorsuch-trinity-lutheran-church-v-comer_us_58f6454ae4b0bb9638e6d0a2?section=us_politics
+neutral 0.8802994495084683
+http://www.huffingtonpost.com/entry/kansas-special-election_us_58ebe24be4b0df7e20447376?section=us_politics
+neutral 0.8613082354191247
+http://www.huffingtonpost.com/entry/comey-letter-redux_us_59122e01e4b05e1ca202c71c?utm_hp_ref=us-politics
+neg 0.6074974690513073
+http://www.huffingtonpost.com/entry/don-benton-draft-board_us_58ef89d7e4b0b9e98489e9a0?section=us_politics
+neutral 0.8683816548948128
+http://www.huffingtonpost.com/entry/trump-farmers-gipsa-rule_us_58efb450e4b0da2ff85f0409?section=us_politics
+neutral 0.8459816980865046
+http://www.huffingtonpost.com/entry/donald-trump-fake-twitter-followers_us_58ece506e4b0df7e20457248?section=us_politics
+pos 0.6289999364274734
+http://www.huffingtonpost.com/entry/trump-has-taken-a-page-straight-from-the-hitler-playbook_us_58eaa6abe4b05413bfe3ce54?section=us_politics
+neutral 0.8569743932440638
+http://www.huffingtonpost.com/entry/an-update-for-trump-voters_us_58ed00d2e4b0ca64d9199c3b?section=us_politics
+neutral 0.8711155668278153
+http://www.huffingtonpost.com/entry/donald-trump-north-korea-leader_us_58f5a76ee4b0b9e9848df8d1?section=us_politics
+pos 0.7587160205978771
+http://www.huffingtonpost.com/entry/doug-lamborn-colorado-springs-town-hall_us_58ee48b4e4b0cb574bb4b603?section=us_politics
+neutral 0.8429147053707111
+http://www.huffingtonpost.com/entry/republicans-worst-spring-break-ever_us_58efb1d8e4b0bb9638e2328c?section=us_politics
+neutral 0.8531298701298691
+http://www.huffingtonpost.com/entry/trumps-five-worst-tax-secrets-revealed_us_58f3ebbde4b04cae050dc897?section=us_politics
+neg 0.5352718071821148
+http://www.huffingtonpost.com/entry/what-does-russia-want-from-donald-trump_us_58f75cc5e4b0f5cf16c7baf9?section=us_politics
+neutral 0.8796385599333205
+http://www.huffingtonpost.com/entry/president-trump-just-cost-americans-saving-for-their-retirement-37-billion_us_58ea602ce4b00de1410421fb?section=us_politics
+neutral 0.8751393431162313
+http://www.huffingtonpost.com/entry/joe-wilson-you-lie_us_58ecf24de4b0ca64d91970bf?section=us_politics
+neg 0.7169735104216755
+http://www.huffingtonpost.com/entry/treasury-department-financial-no-fly-list_us_58e6505ae4b06a4cb30fd7b0?section=us_politics
+neutral 0.8705312049058179
+http://www.huffingtonpost.com/entry/james-mackler-bob-corker_us_58f67436e4b05b9d613e02e2?section=us_politics
+pos 0.6339593371537815
+http://www.huffingtonpost.com/entry/donald-trump-criminal-justice-reform_us_58f7d29ce4b070a1174fdb6a?section=us_politics
+neutral 0.8597377888292587
+http://www.huffingtonpost.com/entry/new-analysis-finds-clinton-not-trump-narrowly-won-the-catholic-vote-in-2016_us_58e574bce4b06a4cb30f0aaf?section=us_politics
+neutral 0.8554204981976253
+http://www.huffingtonpost.com/entry/are-we-witnessing-a-turning-point-in-us-healthcare_us_58f78139e4b0c892a4fb7451?section=us_politics
+neg 0.5441084874082524
+http://www.huffingtonpost.com/entry/tapper-ivanka-refugee-tweets_us_58e81d97e4b058f0a02f6748?section=us_politics
+pos 0.6264906124382161
+http://www.huffingtonpost.com/entry/rob-quist-economic-populism_us_58f279d8e4b0b9e9848c7359?section=us_politics
+neutral 0.8746230044133473
+http://www.huffingtonpost.com/entry/ice-may-deport-more-people-with-us-ties-if-border-crossings-keep-dropping_us_58ee9ad7e4b0b9e984891ad3?section=us_politics
+neutral 0.8565252182326207
+http://www.huffingtonpost.com/entry/there-is-a-trump-doctrine-and-mostly-about-enriching-himself_us_58f4e14ee4b0da2ff862107c?section=us_politics
+neutral 0.8669048471030077
+http://www.huffingtonpost.com/entry/gao-trump-transition_us_58ece162e4b0df7e20456632?section=us_politics
+neutral 0.8702991450601661
+http://www.huffingtonpost.com/entry/trump-tax-push-raises-questions-about-scope-of-his-reform_us_58fea39be4b00fa7de16fc72?ncid=inblnkushpmg00000009
+neutral 0.8854707946005015
+http://www.huffingtonpost.com/entry/trump-mar-a-lago-state-department_us_58fe4e4fe4b06b9cb9193b03?section=us_politics
+neutral 0.904710141443774
+http://www.huffingtonpost.com/entry/bill-clinton-donald-trump-grasshopper_us_58fe29f1e4b06b9cb918eb4e?section=us_politics
+pos 0.7508650627427647
+http://www.huffingtonpost.com/entry/trump-adopts-washington-denial-armenian-genocide_us_58fe3a9ee4b018a9ce5d86c1?section=us_politics
+neutral 0.8684232512156426
+http://www.huffingtonpost.com/entry/trump-tax-push-raises-questions-about-scope-of-his-reform_us_58fea39be4b00fa7de16fc72?section=us_politics
+neutral 0.8854707946005015
+http://www.huffingtonpost.com/entry/canada-softwood-lumber-duties_us_58fe91c1e4b06b9cb9198470?section=us_politics
+neutral 0.8541486075325023
+http://www.huffingtonpost.com/entry/ann-coulter-berkeley-college-republicans-file-lawsuit-against-uc-berkeley_us_58fe3c29e4b00fa7de168d45?section=us_politics
+neutral 0.8483765976575777
+http://www.huffingtonpost.com/entry/trump-hundred-days_us_58fe1925e4b018a9ce5d3896?section=us_politics
+pos 0.6243597429375702
+http://www.huffingtonpost.com/entry/epa-clean-air-public-comment_us_58fe2c1be4b00fa7de1665cb?section=us_politics
+neutral 0.8662043144130765
+http://www.huffingtonpost.com/entry/texas-republicans-try-to-do-to-lgbtq-rights-what-they-did-to-abortion-access_us_58fe67a4e4b018a9ce5dd464?section=us_politics
+neutral 0.8672318422318422
+http://www.huffingtonpost.com/entry/trump-administration-nepotism_us_58fa746de4b06b9cb916f736?section=us_politics
+neutral 0.8860078463203463
+http://www.huffingtonpost.com/entry/mark-green-gay-gestapo_us_591214f7e4b0a58297e01bd0?utm_hp_ref=us-politics
+neutral 0.8846938690939226
+http://www.huffingtonpost.com/entry/the-pivotal-importance-of-purposeful-philanthropy-in_us_58fdf357e4b086ce58981316?section=us_politics
+pos 0.8841668550250104
+http://www.huffingtonpost.com/entry/trump-rexnord-obama_us_59108db1e4b0e7021e999066?utm_hp_ref=us-politics
+neutral 0.9005555368218953
+http://www.huffingtonpost.com/entry/whats-old-is-new-again-is-democratic-socialists-of_us_58fdd59ee4b0f420ad99c9b4?section=us_politics
+pos 0.8927042590029938
+http://www.huffingtonpost.com/entry/trump-transition-sensitive-information_us_590dd2bce4b0e7021e981d2b?utm_hp_ref=us-politics
+neutral 0.8601307189538311
+http://www.huffingtonpost.com/entry/democrats-donald-trump-congress-address_us_58b63b83e4b0780bac2e45b5?utm_hp_ref=us-senate
+neutral 0.8502057227160092
+http://www.huffingtonpost.com/entry/trump-joint-address-congress_us_58b66849e4b060480e0cf6cf?utm_hp_ref=us-senate
+neg 0.6648962087305555
+http://www.huffingtonpost.com/entry/connecticut-special-election_us_58b6491be4b0a8a9b7872cc1?utm_hp_ref=us-senate
+neutral 0.850591441696792
+http://www.huffingtonpost.com/entry/trump-congress-address-health-care_us_58b63d7fe4b0a8a9b787232e?utm_hp_ref=us-senate
+neutral 0.846880343877915
+http://www.huffingtonpost.com/entry/trump-joint-session-congress_us_58b5b202e4b0a8a9b78687d0?utm_hp_ref=us-senate
+pos 0.6168053625128724
+http://www.huffingtonpost.com/entry/bernie-sanders-donald-trump-health-care_us_58b574ade4b060480e0bcf72?utm_hp_ref=us-senate
+neg 0.634738058417768
+http://www.huffingtonpost.com/entry/donald-trump-health-care-complicated_us_58b48652e4b0780bac2c54f0?utm_hp_ref=us-senate
+neutral 0.843946282722948
+http://www.huffingtonpost.com/entry/message-to-senate-dems-vote-no-on-ben-carson_us_58b486c1e4b0780bac2c55dd?utm_hp_ref=us-senate
+neg 0.7020523701312611
+http://www.huffingtonpost.com/entry/mnuchin-entitlement-programs_us_58b34746e4b060480e08dcd3?utm_hp_ref=us-senate
+neutral 0.8647911758315932
+http://www.huffingtonpost.com/entry/hands-off-medicare-and-medicaid-tour-find-three-republicans_us_58b1b542e4b0658fc20f95cd?utm_hp_ref=us-senate
+pos 0.625918756635923
+http://www.nbcnews.com/politics/politics-news/mnuchin-white-house-unveil-biggest-tax-cut-history-n751316
+pos 0.509060247343873
+http://www.nbcnews.com/politics/congress/gop-health-care-plan-gets-backing-freedom-caucus-after-changes-n751356
+pos 0.5052500421530974
+http://www.nbcnews.com/politics/white-house/trump-order-review-protected-federal-lands-n751021
+neutral 0.8844940457049312
+http://www.nbcnews.com/politics/first-read/sound-fury-not-much-action-trump-s-noisy-first-100-n751801
+neutral 0.8790363526165029
+http://www.nbcnews.com/politics/first-read/first-read-s-morning-clips-examining-trump-s-tax-plan-n751791
+neg 0.6656653366753962
+http://www.nbcnews.com/news/us-news/white-house-trump-says-u-s-will-not-withdraw-nafta-n751731
+neutral 0.9186552474201414
+http://www.nbcnews.com/politics/elections/q-top-mexican-presidential-candidate-trump-hillary-clinton-n751671
+neutral 0.8668226916987615
+http://www.nbcnews.com/storyline/democrats-vs-trump/mexico-s-hillary-clinton-rips-trump-over-useless-wall-n751666
+neutral 0.8585179997670499
+http://www.nbcnews.com/storyline/president-trumps-first-100-days/promises-promises-what-trump-said-he-would-do-hasn-t-n748531
+neutral 0.8810771239342666
+http://www.nbcnews.com/politics/congress/trump-drops-opposition-obamacare-payments-avoid-government-shutdown-n751581
+neg 0.6298043399474332
+http://www.nbcnews.com/politics/white-house/seven-takeaways-white-house-s-massive-tax-plan-n751636
+neutral 0.8492723279061595
+http://www.nbcnews.com/news/us-news/comey-had-asked-more-money-fbi-s-russia-investigation-n757461
+neutral 0.8751946479802836
+http://www.nbcnews.com/politics/politics-news/five-names-being-considered-fill-interim-fbi-director-n757486
+neutral 0.8762079908808938
+http://www.nbcnews.com/politics/congress/efforts-prevent-government-shutdown-hit-snag-over-health-care-plans-n751936
+pos 0.549870870197587
+http://www.nbcnews.com/politics/politics-news/trump-tries-deflect-flynn-vetting-questions-obama-administration-n752786
+neutral 0.8956290849667994
+http://www.nbcnews.com/politics/congress/house-votes-keep-government-open-one-more-week-n752436
+neutral 0.8747179653524416
+http://www.nbcnews.com/politics/congress/top-democrat-taxes-hasn-t-given-deal-trump-n752656
+pos 0.5752075244899453
+http://www.nbcnews.com/politics/white-house/here-s-full-list-donald-trump-s-executive-orders-n720796
+neutral 0.8772376361012725
+http://www.nbcnews.com/politics/white-house/trump-nra-eight-year-assault-gun-rights-over-n752446
+neutral 0.8833938120593707
+http://www.nbcnews.com/storyline/president-trumps-first-100-days/ali-vitali-my-100-days-covering-trump-n746771
+neutral 0.8667767957051536
+http://www.nbcnews.com/politics/white-house/senate-confirms-alex-acosta-trump-s-secretary-labor-n752301
+neutral 0.865129745733194
+http://www.nbcnews.com/politics/politics-news/pentagon-investigating-former-nsa-head-flynn-foreign-payments-n751876
+neutral 0.9244252873499109
+http://www.nbcnews.com/storyline/president-trumps-first-100-days/view-abroad-trump-s-100-days-n751931
+neutral 0.8910575765764928
+http://www.nbcnews.com/news/us-news/trump-defends-firing-comey-democrats-call-independent-probe-n757441
+neutral 0.8994327961195431
+http://www.nbcnews.com/news/us-news/fired-fbi-director-comey-tells-colleagues-it-done-i-will-n757691
+neutral 0.8823837678983569
+http://www.nbcnews.com/news/us-news/court-blunts-trump-s-sanctuary-cities-crackdown-n750911
+neutral 0.9212380212082866
+http://www.nbcnews.com/news/us-news/trump-blames-canada-latest-trade-tiff-n750856
+neutral 0.8662059165460475
+http://www.nbcnews.com/politics/white-house/ivanka-trump-germany-first-daughter-leaves-some-women-scratching-heads-n750556
+neutral 0.8887235390153799
+http://www.nbcnews.com/storyline/president-trumps-first-100-days/tougher-law-enforcement-marks-trump-s-first-100-days-n750376
+neutral 0.8692940516271168
+http://www.nbcnews.com/politics/white-house/trump-promises-we-will-never-be-silent-face-evil-again-n750636
+neutral 0.8732336178936512
+http://www.nbcnews.com/politics/white-house/ivanka-trump-grilled-booed-during-women20-summit-berlin-n750606
+neutral 0.906802431799289
+http://www.nbcnews.com/politics/white-house/sebastian-gorka-trump-adviser-linked-hungarian-right-wing-group-abruptly-n750451
+neutral 0.856846627395622
+http://www.nbcnews.com/politics/congress/after-comey-storm-republicans-try-get-back-business-usual-n757626
+neutral 0.8720880383578787
+http://www.nbcnews.com/news/us-news/utah-rep-chaffetz-provides-transparent-reason-leave-absence-n751901
+neutral 0.861891961085317
+http://www.nbcnews.com/news/us-news/did-ag-sessions-violate-his-recusal-advising-comey-firing-n757576
+neutral 0.8770172463144118
+http://www.nbcnews.com/politics/white-house/senate-gop-rallies-around-trump-against-special-prosecutor-n757596
+neutral 0.8539112554520912
+http://www.nbcnews.com/politics/donald-trump/trump-defends-comey-firing-mocks-democrats-playing-so-sad-n757281
+neutral 0.8481693501035252
+http://www.nbcnews.com/politics/first-read/first-read-s-morning-clips-tax-plan-cometh-n751261
+neutral 0.8852749229793403
+http://www.nbcnews.com/politics/congress/poll-50-have-little-no-confidence-gop-health-care-push-n750361
+neg 0.5729240432982007
+http://www.nbcnews.com/politics/congress/congress-aims-avoid-shutdown-trump-presses-100-day-wins-n749696
+neutral 0.8646249692688106
+http://www.nbcnews.com/politics/congress/pelosi-course-you-can-be-democrat-against-abortion-n749856
+pos 0.5004560531743536
+http://www.nbcnews.com/politics/congress/poll-record-number-americans-say-government-should-do-more-n749766
+neutral 0.861295649629627
+http://www.nbcnews.com/politics/congress/house-gop-moves-forward-new-compromise-addition-health-care-n749496
+neutral 0.8552848631559821
+http://www.nbcnews.com/politics/congress/health-care-compromise-circulates-congress-prepares-return-n748851
+neutral 0.8617225962660965
+http://www.nbcnews.com/politics/congress/susan-rice-did-nothing-wrong-say-both-dems-republicans-n747406
+neutral 0.8491431026100528
+http://www.nbcnews.com/politics/politics-news/rep-joe-wilson-s-you-lie-line-used-against-him-n745426
+neutral 0.852617425275309
+http://www.nbcnews.com/news/us-news/paint-shop-owner-juan-carlos-enriquez-took-trump-won-n747756
+neutral 0.8544918173651347
+http://www.nbcnews.com/politics/politics-news/new-fbi-acting-director-mccabe-considered-respected-bureau-man-n757201
+neutral 0.8954355058521702
+http://www.nbcnews.com/politics/first-read/first-read-s-morning-clips-who-knew-it-would-be-n752371
+neg 0.7195432297526833
+http://www.nbcnews.com/politics/politics-news/timeline-former-fbi-director-james-comey-s-fall-grace-n757131
+neutral 0.8688279345142074
+http://www.nbcnews.com/politics/first-read/four-roadblocks-could-wreck-trump-s-tax-plan-n751276
+neutral 0.8725224391262123
+http://www.nbcnews.com/news/us-news/census-director-john-h-thompson-abruptly-quits-people-counting-agency-n757161
+neutral 0.8829919144379078
+http://www.nbcnews.com/politics/first-read/trump-won-election-it-s-electorate-he-s-lost-so-n750586
+pos 0.6332981015673294
+http://www.nbcnews.com/politics/first-read/first-read-s-morning-clips-100-days-controversy-n750581
+neutral 0.8877814282486676
+http://www.nbcnews.com/politics/politics-news/fbi-issues-clarification-comey-testimony-huma-abedin-emails-n757071
+neutral 0.8768341796491174
+http://www.nbcnews.com/politics/first-read/trump-holding-his-base-he-s-losing-nearly-everyone-else-n750071
+neutral 0.8413924478062316
+http://www.nbcnews.com/politics/donald-trump/public-gives-trump-low-marks-first-100-days-nbc-news-n749756
+neutral 0.8581667920497938
+http://www.nbcnews.com/politics/politics-news/trump-hires-law-firm-rebut-suggestion-russia-business-ties-n757106
+neutral 0.9045833333330074
+http://www.nbcnews.com/politics/first-read/here-s-why-chances-government-shutdown-just-went-n749271
+neutral 0.8716246716246716
+http://www.nbcnews.com/politics/first-read/democrats-path-house-majority-runs-through-sunbelt-n748781
+neutral 0.8678626672986859
+http://www.nbcnews.com/politics/first-read/inside-numbers-georgia-election-still-boost-dems-n748211
+neutral 0.88448443479331
+http://www.nbcnews.com/news/us-news/trump-fires-fbi-director-james-comey-n757101
+neutral 0.8885929876993885
+http://www.nbcnews.com/storyline/president-trumps-first-100-days/100-days-trump-police-n752281
+neutral 0.8798327721656515
+http://www.nbcnews.com/business/business-news/biggest-threat-our-economy-political-climate-n750256
+neutral 0.8760051225916556
+http://www.nbcnews.com/politics/donald-trump/trump-calls-investigation-tax-day-protesters-tweets-election-over-n747101
+pos 0.7121673811415202
+http://www.nbcnews.com/politics/politics-news/obama-focus-post-white-house-work-engaging-young-people-n750251
+pos 0.8759887827130493
+http://www.nbcnews.com/politics/white-house/trump-s-mar-lago-travel-triggers-cost-ethics-concerns-n743541
+neutral 0.8936978097541289
+http://www.nbcnews.com/politics/politics-news/panetta-warns-trump-be-careful-north-korea-n746666
+neutral 0.8475303307595627
+http://www.nbcnews.com/politics/first-read/here-comes-tv-ad-cavalry-help-trump-n740461
+neutral 0.8535611463147695
+http://www.nbcnews.com/politics/politics-news/judge-trump-no-protection-campaign-rally-speech-inciting-violence-n741731
+neutral 0.8835282646023219
+http://www.nbcnews.com/politics/politics-news/trump-says-united-states-can-solve-north-korea-without-china-n741806
+neutral 0.8988383838019933
+http://www.nbcnews.com/politics/white-house/trump-spurns-bipartisanship-vows-fight-fellow-republicans-2018-n740496
+neutral 0.8629707476379086
+http://www.nbcnews.com/politics/first-read/why-trump-s-poor-start-matters-n747251
+neutral 0.8845306272227541
+http://www.nbcnews.com/politics/hillary-clinton/hillary-clinton-explains-why-she-really-lost-trump-n743581
+neutral 0.8652169846612447
+http://www.nbcnews.com/politics/white-house/spicer-offends-hitler-gassing-remark-n745241
+neutral 0.8793770565966365
+http://www.nbcnews.com/storyline/democrats-vs-trump/trump-s-shadow-looming-over-special-election-n744231
+neutral 0.8646617692023967
+http://www.nbcnews.com/politics/donald-trump/analysis-trump-s-low-poll-numbers-limit-influence-over-unruly-n741706
+neg 0.5088489863711818
+http://www.nbcnews.com/news/us-news/north-carolina-politician-under-fire-comparing-abraham-lincoln-hitler-n746321
+pos 0.5380126516389766
+http://www.nbcnews.com/politics/white-house/trump-expected-sign-anti-abortion-bill-n746011
+neutral 0.9195128339455699
+http://www.nbcnews.com/politics/congress/mike-pence-breaks-senate-tie-measure-targeting-planned-parenthood-funding-n740666
+neutral 0.8421031745897651
+http://www.nbcnews.com/politics/donald-trump/trump-north-korea-s-kim-jong-un-he-s-pretty-n753006
+pos 0.5590739139394298
+http://www.nbcnews.com/news/world/trump-invites-philippines-president-duterte-washington-white-house-n752951
+neutral 0.9121305274803309
+http://www.nbcnews.com/politics/congress/pence-tax-plan-could-increase-deficit-maybe-short-term-n752976
+neutral 0.8729070151309405
+http://www.nbcnews.com/storyline/president-trumps-first-100-days/trump-touts-first-100-days-record-slams-press-campaign-style-n752916
+neutral 0.8714121873440582
+http://www.nbcnews.com/politics/congress/senate-group-draws-fire-lack-women-working-health-care-n756856
+neutral 0.8446803954500437
+http://www.nbcnews.com/politics/congress/deal-government-funding-reached-averting-shutdown-n753086
+neutral 0.882117469237771
+http://www.nbcnews.com/politics/politics-news/axios-sneak-peek-5-things-know-week-n753061
+neutral 0.8416453765272155
+http://www.nbcnews.com/news/nbcblk/meet-anthony-daniels-alabama-s-first-black-house-minority-leader-n746211
+neutral 0.8634040178570365
+http://www.nbcnews.com/politics/congress/collins-king-divides-washington-reflect-divisions-america-n753001
+neutral 0.8880591090763028
+http://www.nbcnews.com/politics/congress/sally-yates-acting-attorney-general-fired-trump-testifies-flynn-saga-n756446
+neutral 0.918357487812215
+http://www.nbcnews.com/politics/first-read/trump-tax-plan-could-save-his-voters-money-cuts-will-n752956
+neutral 0.899561008230731
+http://www.nbcnews.com/storyline/president-trumps-first-100-days/edel-rodriguez-time-der-spiegel-cover-illustrator-n752381
+neutral 0.8517428643327601
+http://www.nbcnews.com/news/us-news/anti-trump-sentiment-drives-many-dedicate-weekends-protests-n752576
+pos 0.7257868918859587
+http://www.nbcnews.com/news/us-news/trump-names-anti-abortion-leader-charmaine-yoest-high-post-hhs-n752836
+neutral 0.8660449735449501
+http://www.nbcnews.com/news/us-news/senator-behind-jimmy-kimmel-test-health-care-chats-jimmy-kimmel-n756696
+neutral 0.8852183057755569
+http://www.nbcnews.com/health/health-care/obamacare-uncertainty-may-mean-higher-insurance-premiums-experts-say-n755756
+neutral 0.8485190727331963
+http://www.nbcnews.com/news/us-news/idaho-republican-labrador-booed-over-nobody-dies-comment-health-care-n755976
+neutral 0.8861037889552258
+http://www.nbcnews.com/politics/congress/deep-medicaid-cuts-drive-backlash-house-health-care-bill-n755626
+neg 0.6567155652677966
+http://www.nbcnews.com/politics/congress/democrats-criticize-senate-health-care-working-group-lacking-diversity-n755596
+neg 0.5437803032590147
+http://www.nbcnews.com/news/us-news/will-trump-s-border-wall-prevent-human-trafficking-experts-aren-n751466
+neutral 0.8770206644883777
+https://www.washingtonpost.com/politics/the-disrupter-president-and-the-do-little-congress/2017/04/24/e2a47118-290a-11e7-b605-33413c691853_story.html?utm_term=.9fd15b788fcd
+neutral 0.8664200831847744
+https://www.washingtonpost.com/news/powerpost/wp/2017/04/24/trumps-first-100-days-why-trump-wants-to-release-his-tax-plan-this-week/?utm_term=.20fd5d3a9df3
+neutral 0.8883512544802784
+https://www.washingtonpost.com/powerpost/white-house-confident-of-averting-shutdown-as-trump-shows-flexibility-on-wall/2017/04/24/72aa945a-2923-11e7-be51-b3fc6ff7faee_story.html?utm_term=.e5b4cea7c20a
+neutral 0.8668860194722262
+https://www.washingtonpost.com/news/the-fix/wp/2017/04/24/bill-oreilly-sounds-like-he-is-about-to-launch-a-revenge-tour-not-an-apology-tour/?utm_term=.911ab8fc3519
+neg 0.7097636450969984
+https://www.washingtonpost.com/news/the-fix/wp/2017/04/24/trump-jokes-about-firing-nikki-haley-she-could-easily-be-replaced/?utm_term=.dab584ce8360
+neutral 0.8619372423106281
+https://www.washingtonpost.com/news/the-fix/wp/2017/04/24/stephen-k-bannon-performance-artist/?utm_term=.92018e58f315
+neutral 0.8942964042984247
+https://www.washingtonpost.com/news/politics/wp/2017/04/24/why-cutting-corporate-tax-and-raising-the-deficit-might-not-hurt-trump-politically/?utm_term=.b151a80646c6
+pos 0.5880489282050106
+https://www.washingtonpost.com/powerpost/a-reelection-challenge-almost-as-big-as-texas/2017/04/24/7040a9e0-2769-11e7-b503-9d616bd5a305_story.html?utm_term=.fb9dd510d06c
+neutral 0.8657991622574955
+https://www.washingtonpost.com/politics/the-disrupter-president-and-the-do-little-congress/2017/04/24/e2a47118-290a-11e7-b605-33413c691853_story.html?utm_term=.3759c53bf66f
+neutral 0.8664200831847744
+https://www.washingtonpost.com/politics/courts_law/sotomayor-sees-disturbing-trend-of-unequal-treatment-regarding-police-alleged-victims/2017/04/24/dfe8c368-2912-11e7-b605-33413c691853_story.html?utm_term=.1b339e3118ac
+neutral 0.8541409765411823
+https://www.washingtonpost.com/politics/courts_law/supreme-court-to-decide-whether-defendants-are-entitled-to-a-mental-health-expert-on-their-side/2017/04/24/9bc65966-2926-11e7-b605-33413c691853_story.html?utm_term=.299152896142
+pos 0.514820036725343
+https://www.washingtonpost.com/news/post-politics/wp/2017/04/24/senate-staff-perplexed-by-unusual-white-house-private-briefing-on-north-korea/?utm_term=.ddd59fcfa05d
+neutral 0.8665922209103939
+https://www.washingtonpost.com/news/post-politics/wp/2017/04/24/in-chicago-obama-tells-young-leaders-that-special-interests-dominate-the-debates-in-washington/?utm_term=.54b84235e0b3
+neutral 0.8840203174449975
+https://www.washingtonpost.com/politics/senate-expected-to-confirm-perdue-as-agriculture-secretary/2017/04/24/82daf622-2468-11e7-a1b3-faff0034e2de_story.html?utm_term=.9d0cb9746ace
+neutral 0.8804232620273887
+https://www.washingtonpost.com/news/politics/wp/2017/04/24/trumps-first-100-days-according-to-the-group-that-matters-most-many-people/?utm_term=.3168521971f8
+pos 0.6563161179082782
+https://www.washingtonpost.com/news/politics/wp/2017/04/24/how-america-feels-about-abortion/?utm_term=.4f9efb334341
+pos 0.6250043306038732
+https://www.washingtonpost.com/news/politics/wp/2017/04/23/two-thirds-of-americans-think-that-the-democratic-party-is-out-of-touch-with-the-country/?utm_term=.1ddec8123cd5
+neg 0.5074924787991709
+https://www.washingtonpost.com/news/politics/wp/2017/04/23/trump-visits-a-trump-branded-property-for-the-12th-weekend-in-a-row/?utm_term=.59d6b38d0672
+neutral 0.8986357621250738
+https://www.washingtonpost.com/powerpost/ryan-promises-to-keep-government-open--and-makes-no-promises-on-health-care/2017/04/22/2f9aeaea-2769-11e7-b503-9d616bd5a305_story.html?utm_term=.fcc1273b6703
+neutral 0.8757507324093198
+https://www.washingtonpost.com/local/virginia-politics/dark-money-vs-corporate-cash-democratic-rivals-clash-over-funding/2017/04/21/cc91253c-25d7-11e7-a1b3-faff0034e2de_story.html?utm_term=.99c5d2470738
+neutral 0.890385725385714
+https://www.washingtonpost.com/politics/though-shovels-are-ready-trump-officials-delay-grant-for-caltrain-upgrade/2017/04/22/013ee458-160c-11e7-ada0-1489b735b3a3_story.html?utm_term=.6098b2b4f9fc
+neutral 0.8722179781003275
+https://www.washingtonpost.com/politics/a-scholar-asks-can-democracy-survive-the-internet/2017/04/22/1915c0e8-2696-11e7-b503-9d616bd5a305_story.html?utm_term=.b162697b568c
+pos 0.5078182570656715
+https://www.washingtonpost.com/powerpost/history-tells-us-that-republicans-are-taking-on-too-much-this-week--and-that-it-isnt-likely-to-end-well/2017/04/22/b7bf2222-26d5-11e7-b503-9d616bd5a305_story.html?utm_term=.b791bb7eb5c5
+neutral 0.8453350492827528
+https://www.washingtonpost.com/politics/democrats-partner-with-political-newcomers-hoping-to-create-anti-trump-wave-in-2018-midterms/2017/04/21/91514ec8-2502-11e7-bb9d-8cd6118e1409_story.html?utm_term=.05f7daf62af7
+neutral 0.868244288545707
+https://www.washingtonpost.com/news/politics/wp/2017/04/21/the-trump-administration-continues-to-have-a-warped-view-of-crime-in-americas-big-cities/?utm_term=.7ba8cc35996c
+pos 0.6097144428216938
+https://www.washingtonpost.com/powerpost/oversight-committee-jockeying-heats-up-in-wake-of-chaffetz-retirement-announcement/2017/04/21/bab84d1c-26d2-11e7-a1b3-faff0034e2de_story.html?utm_term=.856318af99ef
+neg 0.5416535332979044
+https://www.washingtonpost.com/news/politics/wp/2017/04/21/at-least-20-members-of-the-house-are-registered-to-vote-outside-their-districts/?utm_term=.8309117ab0c2
+neutral 0.8829365079296814
+https://www.washingtonpost.com/politics/freed-egyptian-american-prisoner-returns-home-following-trump-intervention/2017/04/20/d569fe1e-2608-11e7-bb9d-8cd6118e1409_story.html?utm_term=.2162713440c3
+neutral 0.8802601697244553
+https://www.washingtonpost.com/powerpost/white-house-could-provoke-a-spending-showdown-over-funding-for-border-wall/2017/04/20/88ccc940-2614-11e7-a1b3-faff0034e2de_story.html?utm_term=.6dd865591689
+neutral 0.8548204920040376
+https://www.washingtonpost.com/politics/trump-says-he-does-not-see-expanded-role-for-us-in-libya-beyond-isis-fight/2017/04/20/2e2b735c-25ff-11e7-a1b3-faff0034e2de_story.html?utm_term=.25dd08020a32
+neutral 0.890608765918854
+https://www.washingtonpost.com/news/politics/wp/2017/04/20/what-trump-told-the-post-hed-get-done-in-his-first-90-days/?utm_term=.3d26065a741b
+neutral 0.8766794745668555
+https://www.washingtonpost.com/news/powerpost/wp/2017/04/20/to-deflect-gun-rights-criticism-montana-democrat-shoots-a-tv/?utm_term=.0e95341734dc
+neutral 0.8611714105355674
+https://www.washingtonpost.com/news/politics/wp/2017/04/20/americans-prefer-how-obama-handled-foreign-policy-to-how-trump-does/?utm_term=.ece80d28a917
+pos 0.5617949221239102
+https://www.washingtonpost.com/news/politics/wp/2017/04/20/the-contested-georgia-congressional-seat-lies-in-the-middle-of-american-racial-politics/?utm_term=.36b410ee8179
+pos 0.7241733815440783
+https://www.washingtonpost.com/politics/trump-and-his-aides-sow-confusion-by-sending-mixed-signals-on-foreign-affairs/2017/04/19/aefbbcc0-2506-11e7-bb9d-8cd6118e1409_story.html?utm_term=.fc7cdd2c249c
+neutral 0.8795249763071421
+https://www.washingtonpost.com/politics/even-in-red-states-republicans-feel-free-to-criticize-trump-on-his-taxes-and-travel/2017/04/19/693f4402-2517-11e7-bb9d-8cd6118e1409_story.html?utm_term=.96848b6b2306
+neutral 0.8577371081101214
+https://www.washingtonpost.com/politics/courts_law/justices-express-sympathy-to-missouri-church-at-supreme-court-hearing/2017/04/19/4d3f8be6-2070-11e7-a0a7-8b2a45e3dc84_story.html?utm_term=.4796fe07e053
+neutral 0.8623029006319407
+https://www.washingtonpost.com/powerpost/trump-must-decide-whether-to-support-or-undermine-obamacare/2017/04/19/a52193d6-2502-11e7-bb9d-8cd6118e1409_story.html?utm_term=.4e815d05669b
+neutral 0.875608788637613
+https://www.washingtonpost.com/powerpost/democrats-turn-to-sanders-and-his-star-power-to-rebuild-the-party/2017/04/19/78c38efc-2502-11e7-bb9d-8cd6118e1409_story.html?utm_term=.020fc88b5dfa
+neutral 0.8721321007035292
+https://www.washingtonpost.com/news/politics/wp/2017/04/19/where-americas-carrier-groups-were-as-the-administration-talked-about-its-armada/?utm_term=.446d04fa19d1
+neutral 0.8612268504156244
+https://www.washingtonpost.com/news/politics/wp/2017/04/19/theres-also-a-partisan-split-in-when-people-vote/?utm_term=.49e637f67321
+neutral 0.8547956211421889
+https://www.washingtonpost.com/politics/this-beltway-insider-is-in-charge-of-hiring-for-the-trump-administration-its-taking-awhile/2017/04/18/06febf20-1b08-11e7-bcc2-7d1a0973e7b2_story.html?utm_term=.4f8fc5d6c723
+neutral 0.8456607552567149
+https://www.washingtonpost.com/news/politics/wp/2017/04/19/the-demos-went-down-to-georgia-what-the-special-election-says-about-donald-trump/?utm_term=.9704fc87dcea
+neutral 0.8512032944256015
+https://www.washingtonpost.com/powerpost/republicans-avoided-calamity-in-this-months-two-special-elections-but-a-lot-more-peril-lies-ahead/2017/04/19/b4adbc54-247a-11e7-bb9d-8cd6118e1409_story.html?utm_term=.04aa8d6c18a6
+neutral 0.8561106530154148
+https://www.washingtonpost.com/powerpost/georgia-house-race-stokes-gop-identity-crisis--and-opportunity-for-democrats/2017/04/18/a2231a48-242f-11e7-b503-9d616bd5a305_story.html?utm_term=.6816df4832dc
+neutral 0.8574886646577823
+https://www.washingtonpost.com/powerpost/for-republicans-in-georgias-6th-district-a-delicate-dance-with-trump/2017/04/19/f5cd98ce-2481-11e7-a1b3-faff0034e2de_story.html?utm_term=.9d814dfed000
+neg 0.5834148160964256
+https://www.washingtonpost.com/local/public-safety/iranian-american-groups-testify-in-washington-seeking-new-ban-on-trump-travel-order/2017/04/18/65d31b20-23ca-11e7-bb9d-8cd6118e1409_story.html?utm_term=.666f7e4cfc5b
+neutral 0.8825104493207935
+https://www.washingtonpost.com/politics/trump-makes-rare-trip-outside-washington-to-sell-his-america-first-agenda/2017/04/18/c30dd4a8-2445-11e7-a1b3-faff0034e2de_story.html?utm_term=.04313475d7ac
+neutral 0.9061621711620355
+https://www.washingtonpost.com/news/politics/wp/2017/04/18/historically-democrats-have-a-1-in-5-chance-of-winning-the-georgia-or-any-special-election/?utm_term=.4d4f48413661
+neg 0.5665564272238268
+https://www.washingtonpost.com/politics/courts_law/supreme-court-skeptical-about-secs-powers-of-disgorgement/2017/04/18/43756330-2460-11e7-bb9d-8cd6118e1409_story.html?utm_term=.043cf00ff660
+neg 0.7445557213792986
+https://www.washingtonpost.com/news/politics/wp/2017/04/18/the-many-ways-in-which-trumps-buy-american-mantra-is-hypocritical/?utm_term=.8c4eb8c54a4f
+neutral 0.8998226100970443
+https://www.washingtonpost.com/news/politics/wp/2017/04/18/theres-no-sign-donald-trump-can-win-a-campaign-for-anyone-not-named-donald-trump/?utm_term=.d587a527fab5
+pos 0.6446619958431306
+https://www.washingtonpost.com/politics/two-plaintiffs-join-suit-against-trump-alleging-breach-of-emoluments-clause/2017/04/17/1d4aaa70-238a-11e7-a1b3-faff0034e2de_story.html?utm_term=.cd60d7bb8ca8
+neutral 0.8797769360258257
+https://www.washingtonpost.com/politics/courts_law/hearing-first-arguments-as-member-of-the-supreme-court-gorsuch-jumps-right-in/2017/04/17/96856404-2392-11e7-a1b3-faff0034e2de_story.html?utm_term=.42ff5e754227
+neutral 0.8730422031026338
+https://www.washingtonpost.com/powerpost/georgia-house-race-stokes-gop-identity-crisis--and-opportunity-for-democrats/2017/04/17/c65ba43a-23b6-11e7-a1b3-faff0034e2de_story.html?utm_term=.517ff9f8f27c
+neutral 0.87384819710712
+https://www.washingtonpost.com/news/politics/wp/2017/04/17/people-are-googling-world-war-3-more-than-ever-but-not-world-war-three/?utm_term=.61fc19ad9b75
+pos 0.6577279809303884
+https://www.washingtonpost.com/news/politics/wp/2017/04/17/control-of-congress-aside-americans-view-the-gop-as-the-more-divided-party/?utm_term=.6da1869f3048
+pos 0.626010172823371
+https://www.washingtonpost.com/news/politics/wp/2017/04/17/trump-has-spent-one-out-of-every-five-minutes-of-his-presidency-in-palm-beach/?utm_term=.5d7d8f8de10c
+neutral 0.9179344721747335
+https://www.washingtonpost.com/news/politics/wp/2017/04/17/confidence-that-trump-will-keep-his-promises-sinks-but-theres-only-one-group-he-needs-to-worry-about/?utm_term=.b6344260c804
+neg 0.5037632434469401
+https://www.washingtonpost.com/powerpost/two-republican-lawmakers-face-anger-from-their-own-voters-on-health-care/2017/04/16/d52493ec-2077-11e7-be2a-3a1fb24d4671_story.html?utm_term=.2be53c2b2ad6
+neutral 0.848959435625039
+https://www.washingtonpost.com/politics/as-tensions-with-north-korea-flare-trump-spends-quiet-weekend-at-mar-a-lago/2017/04/16/ca77d19e-22bf-11e7-a1b3-faff0034e2de_story.html?utm_term=.37019accae77
+neutral 0.8805281277191389
+https://www.washingtonpost.com/powerpost/this-cowboy-poet-is-trying-to-steal-a-republican-house-seat-in-montana/2017/04/15/5c228e3e-214b-11e7-be2a-3a1fb24d4671_story.html?utm_term=.d64c3312c844
+neutral 0.8757540283790274
+https://www.washingtonpost.com/politics/gop-leaders-urge-patience--not-panic--amid-trumps-early-stumbles/2017/04/15/29bb05d8-213d-11e7-ad74-3a742a6e93a7_story.html?utm_term=.e4b9376ddc8c
+neutral 0.8644798709405451
+https://www.washingtonpost.com/powerpost/republicans-may-be-making-a-mistake-by-swinging-only-for-the-fences/2017/04/15/b82da176-21e8-11e7-a0a7-8b2a45e3dc84_story.html?utm_term=.f6f13d3265dd
+neutral 0.8540376976950981
+https://www.washingtonpost.com/local/virginia-politics/republicans-running-for-virginia-governor-tangle-in-tv-debate/2017/04/13/7b6e213e-2080-11e7-a0a7-8b2a45e3dc84_story.html?utm_term=.4f00a11c94d5
+neutral 0.8621744921744879
+https://www.washingtonpost.com/powerpost/republicans-may-not-want-trump-to-end-obamacare-payments/2017/04/14/f85409ea-214b-11e7-be2a-3a1fb24d4671_story.html?utm_term=.c570268e6b7d
+neutral 0.8694971100834071
+https://www.washingtonpost.com/politics/trumps-pledge-to-allow-churches-to-support-candidates-may-be-part-of-tax-bill/2017/04/13/fe9dd1fe-2052-11e7-a0a7-8b2a45e3dc84_story.html?utm_term=.3838a7cc397d
+neutral 0.87547086174495
+https://www.washingtonpost.com/politics/obama-said-there-was-never-a-better-time-to-be-alive-trump-thinks-a-nasty-world-offers-nothing-but-problems/2017/04/13/59c9c65e-2090-11e7-be2a-3a1fb24d4671_story.html?utm_term=.c43bb1d4ca8a
+neutral 0.8588782687792381
+https://www.washingtonpost.com/powerpost/republican-house-leader-avoids-selling-gop-health-care-plan-at-home/2017/04/13/199bc5a4-2046-11e7-a0a7-8b2a45e3dc84_story.html?utm_term=.dff333c68fd9
+neutral 0.8618889674706459
+https://www.washingtonpost.com/local/public-safety/theres-a-word-that-no-longer-describes-the-federal-appeals-court-in-richmond/2017/04/12/3a82e0c4-193c-11e7-9887-1a5314b56a08_story.html?utm_term=.f81854ebf60b
+neutral 0.8682248960190136
+https://www.washingtonpost.com/politics/manafort-is-expected-to-register-as-a-foreign-agent/2017/04/12/6c7cdd58-1fb0-11e7-ad74-3a742a6e93a7_story.html?utm_term=.407728b38c16
+neutral 0.9072484100261878
+https://www.washingtonpost.com/politics/with-his-presidency-in-turmoil-trump-keeps-returning-to-past-victories--and-old-foes/2017/04/12/1fa2e496-1fb5-11e7-ad74-3a742a6e93a7_story.html?utm_term=.c45d0b1b16b4
+neutral 0.8766173499146008
+https://www.washingtonpost.com/politics/trump-administration-moving-quickly-to-build-up-nationwide-deportation-force/2017/04/12/7a7f59c2-1f87-11e7-be2a-3a1fb24d4671_story.html?utm_term=.c177d90e6086
+neutral 0.8702003265383548
+https://www.washingtonpost.com/powerpost/trump-factor-has-party-operatives-wondering-how-big-is-the-house-playing-field/2017/04/12/c7ef60dc-1e2c-11e7-ad74-3a742a6e93a7_story.html?utm_term=.988f737762c5
+neutral 0.8939841871091687
+https://www.washingtonpost.com/news/politics/wp/2017/04/12/if-the-kansas-shift-happened-nationally-democrats-would-have-a-stranglehold-on-the-house/?utm_term=.f23f11c2d36f
+pos 0.5543022256720742
+https://www.washingtonpost.com/powerpost/republican-in-kansas-pulls-ahead-in-race-for-us-house-seat/2017/04/11/cde8126e-1ecb-11e7-ad74-3a742a6e93a7_story.html?utm_term=.f19056044249
+pos 0.7129239555723235
+https://www.washingtonpost.com/politics/spicer-apologizes-after-receiving-sharp-criticism-for-saying-hitler-didnt-use-chemical-weapons/2017/04/11/fe7e9f88-1ef3-11e7-a0a7-8b2a45e3dc84_story.html?utm_term=.30128ba48f01
+neutral 0.8980639730621277
+https://www.washingtonpost.com/powerpost/white-house-tells-agencies-to-come-up-with-a-plan-to-shrink-their-workforces/2017/04/11/79961738-1efd-11e7-ad74-3a742a6e93a7_story.html?utm_term=.e46628e603da
+neutral 0.871514069264018
+https://www.washingtonpost.com/powerpost/white-house-tells-agencies-to-come-up-with-a-plan-to-shrink-their-workforces/2017/04/11/79961738-1efd-11e7-ad74-3a742a6e93a7_story.html?utm_term=.ed67d28afeda
+neutral 0.871514069264018
+https://www.washingtonpost.com/politics/trump-administration-suspends-public-disclosures-of-sanctuary-cities/2017/04/11/7ea7f078-1ec8-11e7-ad74-3a742a6e93a7_story.html?utm_term=.7adeba03c0eb
+neutral 0.8811973875173678
+https://www.washingtonpost.com/politics/courts_law/partisan-battles-over-nominees-pose-real-danger-for-supreme-court-chief-justice-says/2017/04/11/62e89c2c-1ee9-11e7-a0a7-8b2a45e3dc84_story.html?utm_term=.8acf245c5f02
+neutral 0.8647426639965446
+https://www.washingtonpost.com/politics/trump-promised-an-unpredictable-foreign-policy-to-allies-it-looks-incoherent/2017/04/11/21acde5e-1a3d-11e7-9887-1a5314b56a08_story.html?utm_term=.9c9c37b87ed6
+neutral 0.8792763034067064
+https://www.washingtonpost.com/local/virginia-politics/did-a-republican-running-for-va-governor-really-dress-up-like-a-confederate-gent/2017/04/11/bbffcaca-1eca-11e7-ad74-3a742a6e93a7_story.html?utm_term=.f6f8422fdc87
+neutral 0.8543706746437355
+https://www.washingtonpost.com/politics/texas-voter-id-law-was-designed-to-discriminate-against-minorities-judge-rules/2017/04/10/73bab4ee-1e45-11e7-ad74-3a742a6e93a7_story.html?utm_term=.97211fcfbd74
+neutral 0.8719008991379287
+https://www.washingtonpost.com/powerpost/in-kansas-a-close-congressional-race-surprises-republicans/2017/04/10/8f0085e8-1e05-11e7-ad74-3a742a6e93a7_story.html?utm_term=.774aedb3c9a6
+neutral 0.8698685468305722
+https://www.washingtonpost.com/politics/whos-visiting-the-white-house-watchdog-groups-are-suing-to-find-out/2017/04/09/1f8435f4-1d18-11e7-ad74-3a742a6e93a7_story.html?utm_term=.b8ae56f290da
+neutral 0.8919292593711198
+https://www.washingtonpost.com/politics/conservatives-hope-that-trump-victory-on-gorsuch-will-breed-other-successes/2017/04/09/a63067e6-1c49-11e7-bcc2-7d1a0973e7b2_story.html?utm_term=.4f0f17a1da5a
+neutral 0.8424684392233855
+https://www.washingtonpost.com/powerpost/with-a-deadline-looming-nobody-is-threatening-to-shut-down-the-government/2017/04/09/d68789ee-1a17-11e7-bcc2-7d1a0973e7b2_story.html?utm_term=.c973cf1119a1
+neutral 0.8547225124811217
+https://www.washingtonpost.com/politics/courts_law/what-does-the-junior-supreme-court-justice-do-kagan-tells-gorsuch-it-starts-in-the-kitchen/2017/04/09/9297ef4c-1bbd-11e7-9887-1a5314b56a08_story.html?utm_term=.add85b14d9f2
+pos 0.5182656590241643
+https://www.washingtonpost.com/powerpost/republicans-begin-to-fret-about-holding-on-to-tom-prices-georgia-seat/2017/04/09/34211c82-1b26-11e7-bcc2-7d1a0973e7b2_story.html?utm_term=.5a9909def551
+neutral 0.8466194449913936
+https://www.washingtonpost.com/local/social-issues/like-obama-before-him-trump-is-freeing-foreign-born-criminals/2017/04/06/d9776a3c-149c-11e7-ada0-1489b735b3a3_story.html?utm_term=.7c26dfef2932
+neutral 0.8690030940030886
+https://www.washingtonpost.com/powerpost/republicans-on-capitol-hill-leave-town-with-most-of-their-agenda-stuck-in-limbo/2017/04/08/e6f97b16-1b25-11e7-bcc2-7d1a0973e7b2_story.html?utm_term=.dd7e4a3227c8
+neutral 0.8667962662336294
+https://www.washingtonpost.com/news/politics/wp/2017/04/08/trump-has-visited-a-trump-branded-property-every-2-8-days-of-his-presidency/?utm_term=.fcf35a844772
+neutral 0.8529311915427075
+https://www.washingtonpost.com/politics/horrible-pictures-of-suffering-moved-trump-to-action-on-syria/2017/04/07/9aa9fcc8-1bce-11e7-8003-f55b4c1cfae2_story.html?utm_term=.0cebd9f17ce7
+neutral 0.8638350682040002
+https://www.washingtonpost.com/politics/trump-officials-defend-syria-airstrikes-say-they-were-in-vital-national-interest/2017/04/07/b65ef65c-1ba7-11e7-855e-4824bbb5d748_story.html?utm_term=.b19934e28e63
+neutral 0.8848911930355058
+https://www.washingtonpost.com/politics/trump-confronts-the-contradictions-of-his-foreign-policy-rhetoric/2017/04/07/c1a32dfe-1bc4-11e7-855e-4824bbb5d748_story.html?utm_term=.864f69d61686
+neutral 0.851584526583188
+https://www.washingtonpost.com/politics/us-and-china-end-summit-with-100-day-plan-to-boost-trade-and-cooperation/2017/04/07/5d3d923c-1bc9-11e7-855e-4824bbb5d748_story.html?utm_term=.58376d6a61e5
+neutral 0.8767156861750482
+https://www.washingtonpost.com/powerpost/wisconsin-democratic-senator-echoes-trumps-economic-message-in-her-reelection-bid/2017/04/07/d3e51298-1b06-11e7-bcc2-7d1a0973e7b2_story.html?utm_term=.1f2db558853b
+neutral 0.8879235150576615
+https://www.washingtonpost.com/politics/at-mar-a-lago-trump-to-welcome-chinas-xi-for-high-stakes-inaugural-summit/2017/04/06/0235cdd0-1ac2-11e7-bcc2-7d1a0973e7b2_story.html?utm_term=.bc8443b5067b
+neutral 0.9189471360703374
+https://www.washingtonpost.com/powerpost/senate-poised-for-historic-clash-over-supreme-court-nominee-neil-gorsuch/2017/04/06/40295376-1aba-11e7-855e-4824bbb5d748_story.html?utm_term=.2674d7811d9a
+pos 0.5438122016267973
+http://abcnews.go.com/Politics/trump-100-days-successful-us-history/story?id=47100880
+neutral 0.8502816055830812
+http://abcnews.go.com/Politics/donald-trump-mark-100-days-rally-pennsylvania/story?id=47091751
+pos 0.571342204750189
+http://abcnews.go.com/Politics/trump-blames-obama-vetting-national-security-adviser-michael/story?id=47089736
+neutral 0.8504949609971869
+http://abcnews.go.com/Politics/years-white-house-correspondents-dinner-sees-journalism-back/story?id=47089618
+neutral 0.8927824205608751
+http://abcnews.go.com/Politics/president-trumps-100-days-numbers/story?id=47093316
+neutral 0.8988674877905439
+http://abcnews.go.com/Politics/trumps-100-days-environmental-policy/story?id=47093836
+neutral 0.8803779553743752
+http://abcnews.go.com/Politics/democrats-bash-trumps-100-days-gop-pretty-excited/story?id=47086940
+pos 0.7417369269285325
+http://abcnews.go.com/Politics/reporters-notebook-cover-donald-trump-100-days/story?id=47020088
+neutral 0.8781133557713104
+http://abcnews.go.com/Politics/president-trump-proud-1st-president-address-nra-34/story?id=47080710
+neutral 0.8664682539682408
+http://abcnews.go.com/Politics/national-security-agency-ends-controversial-email-collection-program/story?id=47094647
+neutral 0.8924133829208274
+http://abcnews.go.com/Politics/trump-makes-heavy-executive-orders-past-criticism/story?id=47084673
+neg 0.5602401242377217
+http://abcnews.go.com/Politics/video/mr-president-media-fake-news-bob-woodward-47112057
+pos 0.7619413204401684
+http://abcnews.go.com/Politics/video/white-house-correspondents-dinners-biggest-zingers-47111553
+neg 0.5321177013268613
+http://abcnews.go.com/WNT/video/president-trumps-100-days-met-praise-protests-47110901
+neutral 0.8532119337740522
+http://abcnews.go.com/Politics/video/trump-supporters-47108994
+neg 0.5990803676903788
+http://abcnews.go.com/GMA/video/trump-addresses-national-rifle-association-plans-rally-pennsylvania-47104355
+neutral 0.8557796995489745
+http://abcnews.go.com/GMA/video/trump-100-days-struggled-seal-deal-congress-47104315
+neutral 0.8551748124992958
+http://abcnews.go.com/GMA/video/trump-twitter-bypass-traditional-media-communicating-public-47104275
+pos 0.7301005842053261
+http://abcnews.go.com/GMA/video/north-korea-attempts-missile-launch-47104235
+neutral 0.8429246217781433
+http://abcnews.go.com/GMA/video/north-koreas-failed-missile-launch-month-us-47104195
+neg 0.547142563825616
+http://abcnews.go.com/GMA/video/analyzing-trumps-active-100-days-office-47104155
+pos 0.6248015321867761
+http://abcnews.go.com/GMA/video/trump-mark-100th-day-office-campaign-style-rally-47104074
+neg 0.5254216155648708
+http://abcnews.go.com/Politics/republican-holdouts-agree-compromise-plan-obamacare-repeal/story?id=47176314
+neutral 0.8510814640919984
+http://abcnews.go.com/Politics/comparing-white-house-kremlins-summaries-trump-putin-phone/story?id=47178707
+neutral 0.8887906589534671
+http://abcnews.go.com/Politics/trump-commits-israeli-palestinian-peace-deal/story?id=47183296
+pos 0.8567294938608774
+http://abcnews.go.com/Politics/house-vote-trillion-government-funding-bill/story?id=47179020
+neutral 0.931547617423449
+http://abcnews.go.com/Politics/rubber-stamp-party-pelosi-democrats-abortion/story?id=47174721
+neutral 0.8685051885521275
+http://abcnews.go.com/Politics/fbi-director-james-comey-testify-front-congress-today/story?id=47178809
+neutral 0.8612666605095245
+http://abcnews.go.com/Politics/gop-plan-pre-existing-conditions/story?id=47167931
+neutral 0.8303996579392064
+http://abcnews.go.com/Politics/andrew-jacksons-celebrity-paved-donald-trump/story?id=47167579
+neutral 0.8448371183701315
+http://abcnews.go.com/Politics/77-million-served-water-contaminated-systems-report/story?id=47161151
+neutral 0.8683514835858515
+http://abcnews.go.com/Politics/republicans-scrounge-health-care-votes-key-member-announces/story?id=47164041
+neutral 0.8431590000395218
+http://abcnews.go.com/Politics/spicer-trump-stands-description-obama-evil/story?id=47139124
+neutral 0.8755336818286458
+http://abcnews.go.com/WNT/video/president-trump-rounds-republicans-repeal-replace-obamacare-47192615
+pos 0.5625850043475984
+http://abcnews.go.com/Politics/video/tillerson-american-values-separate-foreign-policy-47192365
+pos 0.7002942695273019
+http://abcnews.go.com/WNT/video/fbi-director-james-comey-testifies-clinton-emails-capitol-47192324
+neg 0.5354046738559622
+http://abcnews.go.com/Politics/video/white-house-defends-amendment-gop-health-care-bill-47190048
+neg 0.6186744548720513
+http://abcnews.go.com/Politics/video/trump-mideast-peace-47188322
+pos 0.71346282768504
+http://abcnews.go.com/Politics/video/blame-hillary-clintons-presidential-election-loss-47183336
+neg 0.8423596779560786
+http://abcnews.go.com/Politics/video/bill-maher-democrats-made-white-people-feel-minority-47183295
+neg 0.7439170409231316
+http://abcnews.go.com/Politics/video/rep-val-demings-advocates-gun-violence-prevention-capitol-47182362
+pos 0.6380997831365405
+http://abcnews.go.com/Politics/video/comey-mildly-nauseous-fbi-affected-2016-election-47180061
+neutral 0.8243497567422136
+http://abcnews.go.com/Politics/melania-trump-sends-pamela-anderson-note-russian-faux/story?id=47190426
+pos 0.8956915801989491
+http://abcnews.go.com/Politics/house-hold-vote-gop-health-care-bill-thursday/story?id=47191544
+neutral 0.9011102969619854
+http://abcnews.go.com/Politics/house-passes-obamacare-replacement-bill/story?id=47200247
+neutral 0.8437585984898303
+http://abcnews.go.com/Politics/trump-visit-israel-vatican-saudi-arabia-foreign-trip/story?id=47203934
+neutral 0.8706349187150989
+http://abcnews.go.com/Politics/senate-vote-government-funding-bill-today/story?id=47203176
+neutral 0.8983516302026014
+http://abcnews.go.com/Politics/trump-signs-executive-order-ease-restrictions-religious-participation/story?id=47190000
+neutral 0.8736507925295157
+http://abcnews.go.com/Politics/trump-meet-australian-prime-minister-attend-intrepid-event/story?id=47187711
+neutral 0.883792779523275
+http://abcnews.go.com/Politics/health-care-experts-amendment-falls-short-pre-existing/story?id=47186752
+neutral 0.8383562081598521
+http://abcnews.go.com/Politics/susan-rice-declines-invitation-testify-senate-judiciary-panel/story?id=47190254
+neutral 0.9098761782483619
+http://abcnews.go.com/Politics/video/protesters-await-president-trump-intrepid-47221100
+neg 0.5469606900141389
+http://abcnews.go.com/Politics/video/gop-healthcare-passes-house-scoring-president-trump-legislative-47220721
+neutral 0.842910156016945
+http://abcnews.go.com/WNT/video/trump-promises-religious-leaders-give-houses-worship-voices-47220247
+neutral 0.8854963841913644
+http://abcnews.go.com/Politics/video/protesters-gather-capitol-hill-health-care-vote-47218411
+neg 0.5075616541873168
+http://abcnews.go.com/Politics/video/protesters-gather-intrepid-ahead-trumps-arrival-47217287
+neutral 0.852025255762241
+http://abcnews.go.com/Politics/video/house-passes-obamacare-replacement-bill-stays-47215427
+pos 0.5673383900327195
+http://abcnews.go.com/Politics/video/gops-health-care-bill-47215384
+neg 0.579557096395263
+http://abcnews.go.com/Politics/video/gop-health-care-bill-affect-women-47215110
+neg 0.5673608997685812
+http://abcnews.go.com/Politics/video/gop-health-care-bill-47215041
+neg 0.6373928235093712
+http://abcnews.go.com/Politics/video/dr-ben-carson-public-housing-comfortable-47208695
+neg 0.7090670885985716
+http://abcnews.go.com/Politics/video/fbis-comey-fbis-impact-election-makes-mildly-nauseous-47208607
+neg 0.8804939503922848
+http://abcnews.go.com/Politics/video/moment-house-passed-obamacare-replacement-bill-47208518
+neutral 0.867045608163821
+http://abcnews.go.com/Politics/trouble-house-health-care-bill-senate-republicans/story?id=47228994
+neutral 0.8337460234821465
+http://abcnews.go.com/Politics/female-white-house-chief-usher-longer-employed-official/story?id=47230778
+neutral 0.8696249737971297
+http://abcnews.go.com/Politics/democrats-chant-hey-hey-hey-goodbye-gop-health/story?id=47224992
+neutral 0.8509699973960352
+http://abcnews.go.com/Politics/steps-gop-health-plan-senate-plans-write-bill/story?id=47213587
+neutral 0.8312958226773827
+http://abcnews.go.com/Politics/20-republicans-voted-health-care-bill/story?id=47209101
+neutral 0.8885801604641971
+http://abcnews.go.com/WNT/video/anger-mounting-house-health-care-bill-47251633
+neg 0.8120742823226019
+http://abcnews.go.com/GMA/video/house-members-face-backlash-home-districts-health-care-47245003
+neutral 0.8388051664638203
+http://abcnews.go.com/Politics/video/white-house-australias-health-care-system-work-united-47236078
+neg 0.5851407323650997
+http://abcnews.go.com/GMA/video/gop-health-care-bill-moves-senate-47226390
+pos 0.5972901038464827
+http://abcnews.go.com/Politics/video/texas-governor-signs-law-banning-sanctuary-cities-47265969
+neutral 0.9094453929212177
+http://abcnews.go.com/ThisWeek/video/president-trump-touts-house-health-care-victory-bill-47258674
+pos 0.5951235785667026
+http://abcnews.go.com/ThisWeek/video/week-fast-forward-572017-47258211
+pos 0.5461303883604769
+http://abcnews.go.com/ThisWeek/video/sen-susan-collins-senate-starting-scratch-health-care-47255675
+pos 0.6195474970097841
+http://abcnews.go.com/GMA/video/republican-house-members-hearing-constituents-upset-gop-health-47255498
+pos 0.6057053347449719
+http://abcnews.go.com/Politics/france-chooses-centrist-macron-le-pen-president-exit/story?id=47259916
+neutral 0.915060878313439
+http://abcnews.go.com/Politics/obama-warned-trump-hiring-flynn-oval-office-meeting/story?id=47276121
+neutral 0.9026231296143564
+http://abcnews.go.com/Politics/acting-attorney-general-fired-trump-set-testify-russias/story?id=47263460
+neutral 0.8968992140376514
+http://abcnews.go.com/Politics/trump-expected-judicial-nominees-today/story?id=47271996
+neutral 0.8855317959194678
+http://abcnews.go.com/Politics/donald-trump-tweets-sally-yates-ahead-senate-hearing/story?id=47273261
+neutral 0.8948643179155368
+http://abcnews.go.com/Politics/acting-attorney-general-sally-yates/story?id=46444595
+neutral 0.892772988505747
+http://abcnews.go.com/Politics/obama-offers-defense-affordable-care-act-profile-courage/story?id=47266932
+neutral 0.8947319210751137
+http://abcnews.go.com/Politics/gop-senator-senate-fresh-approach-health-care/story?id=47246635
+neutral 0.8418208488691468
+http://abcnews.go.com/Politics/ryan-worried-voter-backlash-keeping-word-health-care/story?id=47247986
+neutral 0.9042426175454673
+http://abcnews.go.com/Politics/epa-chief-recuses-lawsuits/story?id=47247916
+neutral 0.8910039836755098
+http://abcnews.go.com/Politics/house-republicans-face-voters-home-districts-angry-health/story?id=47247115
+neutral 0.8700789406666075
+http://abcnews.go.com/WNT/video/ag-sally-yates-testified-warned-white-house-michael-47286758
+neutral 0.9204172466673896
+http://abcnews.go.com/WNT/video/trump-administration-defends-travel-ban-barring-muslims-intends-47286717
+neutral 0.8610935022863021
+http://abcnews.go.com/Politics/video/original-muslim-ban-erased-trump-campaign-website-47285883
+neutral 0.9199658579242341
+http://abcnews.go.com/Politics/video/sally-yates-testifies-russia-47285209
+neutral 0.9017391839607165
+http://abcnews.go.com/Politics/video/vega-spicer-trump-website-call-muslim-ban-47279650
+pos 0.6532568626739432
+http://abcnews.go.com/Politics/video/white-house-confirms-warning-obama-hiring-flynn-47278994
+neutral 0.828304728350954
+http://abcnews.go.com/Politics/video/obama-warned-trump-hiring-flynn-oval-office-meeting-47278523
+neutral 0.9666532075767659
+http://abcnews.go.com/Politics/video/sen-kirsten-gillibrand-paid-family-leave-trump-familys-47276968
+neg 0.548260809488151
+http://abcnews.go.com/Politics/video/sen-kirsten-gillibrand-health-care-made-democratic-party-47276927
+neutral 0.8461989456087503
+http://abcnews.go.com/Politics/video/lady-michelle-obama-congratulates-class-2017-graduates-47275173
+pos 0.8780407542539846
+http://abcnews.go.com/Politics/court-hearing-travel-ban-focuses-trumps-words-constitution/story?id=47286488
+neutral 0.8478018232169351
+http://abcnews.go.com/Politics/timeline-sally-yates-warnings-white-house-mike-flynn/story?id=47272979
+neutral 0.9079545454544782
+http://www.cbsnews.com/news/white-house-correspondents-dinner/
+neutral 0.8783024326806466
+http://www.cbsnews.com/news/trump-i-will-not-be-happy-if-north-korea-conducts-another-nuclear-test/
+neutral 0.8432349772464027
+http://www.cbsnews.com/news/are-twitter-users-tuning-out-president-donald-trump/
+neutral 0.8456643428120832
+http://www.cbsnews.com/news/watch-live-president-trump-rally-speech-in-pennsylvania/
+neutral 0.8490779812308276
+http://www.cbsnews.com/news/cbs-this-morning-white-house-live-broadcast/
+neutral 0.8730819776967431
+http://www.cbsnews.com/news/barron-trump-takes-social-media-by-storm-in-100-days-of-trump-presidency/
+neutral 0.878030232809313
+http://www.cbsnews.com/news/trump-focuses-on-first-100-day-successes-triumphs-in-weekly-address/
+neutral 0.8684574628850088
+http://www.cbsnews.com/news/charmaine-yoest-anti-abortion-leader-named-to-senior-position-at-department-of-health-and-human-services/
+neutral 0.8696381807491317
+http://www.cbsnews.com/news/trump-signs-short-term-bill-to-avoid-government-shutdown/
+neutral 0.8386784511228824
+http://www.cbsnews.com/news/trump-says-hell-pay-more-under-his-own-tax-plan/
+neutral 0.866946828238261
+http://www.cbsnews.com/news/can-georgia-dedicated-liberal-women-turn-red-state-blue/
+neutral 0.9030858030857997
+http://www.cbsnews.com/news/how-many-executive-orders-has-trump-signed/
+neutral 0.8807245928674501
+http://www.cbsnews.com/news/trump-religious-liberties-executive-order-to-give-irs-discretion-on-enforcement/
+neutral 0.8658776726605671
+http://www.cbsnews.com/news/sanctuary-city-ban-passes-texas-legislature-greg-abbott/
+neutral 0.8766835016834058
+http://www.cbsnews.com/news/state-department-review-to-cost-more-than-1-million/
+pos 0.7093191770417528
+http://www.cbsnews.com/news/new-health-care-bill-vote-scheduled-thursday/
+neutral 0.839224157017985
+http://www.cbsnews.com/news/rex-tillerson-state-department-changes/
+neutral 0.8681318673290849
+http://www.cbsnews.com/news/susan-rice-wont-testify-before-congress-on-russian-meddling-in-election/
+neutral 0.9238791420823557
+http://www.cbsnews.com/news/political-talk-at-work-on-the-job-disruptive-after-election/
+neutral 0.8826506871167273
+http://www.cbsnews.com/news/lawmakers-pass-spending-deal-to-fund-government-through-september/
+neutral 0.8820819303275899
+http://www.cbsnews.com/news/poll-half-of-voters-oppose-pre-existing-condition-opt-out-for-states/
+neutral 0.830257209555865
+http://www.cbsnews.com/news/where-does-president-donald-trump-approval-rating-stand-polls/
+neutral 0.8681159165375777
+http://www.cbsnews.com/news/trump-says-there-is-very-very-good-chance-for-palestinian-israeli-peace-deal/
+neutral 0.8292077438136402
+http://www.cbsnews.com/news/senate-venezuela-trump-russia-oil/
+neutral 0.8659884559884222
+http://www.cbsnews.com/news/two-no-votes-on-health-care-bill-change-to-yes-after-trump-meeting/
+neutral 0.8836208933958263
+http://www.cbsnews.com/news/david-axelrod-to-hillary-clinton-it-takes-a-lot-of-work-to-lose-to-donald-trump/
+neutral 0.8645865106317165
+http://www.cbsnews.com/news/book-obama-proposed-to-another-woman-before-michelle/
+neutral 0.9076136363636363
+http://www.cbsnews.com/news/new-healthcare-bill-vote-whip-count-today/
+neutral 0.8306825241222375
+http://www.cbsnews.com/news/trump-has-track-record-of-embracing-strongmen-around-the-world/
+neutral 0.8578432900432901
+http://www.cbsnews.com/news/trump-on-uss-intrepid-australia-health-care/
+neutral 0.8803865375909833
+http://www.cbsnews.com/news/sanctuary-city-ban-texas-latino-community-federal-immigration-laws/
+neutral 0.8872591457750584
+http://www.cbsnews.com/news/gop-health-care-bill-obamacare-pre-existing-conditions/
+neutral 0.8479776162473834
+http://www.cbsnews.com/news/trump-state-department-employee-had-been-accused-of-sexual-assault/
+neutral 0.8429292929283809
+http://www.cbsnews.com/news/when-pigs-might-fly-in-front-of-trump-tower-in-chicago/
+neutral 0.8193882599670973
+http://www.cbsnews.com/news/lewandowskis-firm-lobbies-for-venezuela-owned-company-that-has-deal-with-russia/
+neutral 0.8896924603174603
+http://www.cbsnews.com/news/nancy-pelosi-calls-gop-health-care-bill-robin-hood-in-reverse/
+neutral 0.8667630392362421
+http://www.cbsnews.com/news/house-health-care-bill-gop-senators-signal-theyll-make-changes/
+neg 0.6787472083428541
+http://www.cbsnews.com/news/tillerson-asks-state-employees-to-describe-their-mission-in-six-words/
+neutral 0.9243490030217306
+http://www.cbsnews.com/news/house-gop-members-take-victory-lap-at-white-house-after-health-bill-passes/
+neutral 0.8672921413416391
+http://www.cbsnews.com/news/what-is-a-pre-existing-condition/
+pos 0.7264207890161474
+http://www.cbsnews.com/news/congress-passes-spending-deal-to-fund-government-through-september/
+neutral 0.8820819302168186
+http://www.cbsnews.com/news/trump-signs-religious-liberty-order-to-defend-freedom-of-religion/
+neutral 0.8778585858584531
+http://www.cbsnews.com/news/whats-in-the-latest-house-gop-health-care-bill/
+neutral 0.8732252131064652
+http://www.cbsnews.com/news/trump-says-australias-health-care-beats-the-us-hes-right/
+neutral 0.8771156996512856
+http://www.cbsnews.com/news/gop-congressman-nobody-dies-because-they-dont-have-access-to-health-care/
+neutral 0.9333333302866821
+http://www.cbsnews.com/news/new-york-ag-says-hell-sue-if-senate-passes-unconstitutional-obamacare-repeal/
+neutral 0.8705884603209416
+http://www.cbsnews.com/news/white-house-dismisses-concerns-over-steep-potential-cuts-to-drug-czar-office/
+neutral 0.9066842373204625
+http://www.cbsnews.com/news/epa-head-scott-pruitt-recuses-himself-from-lawsuits-against-the-epa-he-pursued/
+neutral 0.8443755728700766
+http://www.cbsnews.com/news/ny-state-senators-bill-would-force-trump-tax-returns-to-go-public/
+neutral 0.8835409773740935
+http://www.cbsnews.com/news/emmanuel-macron-campaign-says-its-victim-of-a-massive-hack/
+neutral 0.9025039960260086
+http://www.cbsnews.com/news/how-gop-health-bill-would-impact-americans-on-medicaid/
+neutral 0.8612146302409452
+http://www.cbsnews.com/news/white-house-rape-case-firestorm-charges-dropped/
+neutral 0.8700494144705292
+http://www.cbsnews.com/news/acha-pre-existing-conditions-rape-pregnancy/
+neutral 0.8606717696176958
+http://www.cbsnews.com/news/reporters-scour-instagram-to-keep-up-on-trump-weekend-outings/
+neutral 0.8961326979472123
+http://www.cbsnews.com/news/sally-yates-to-testify-about-russia-attempts-to-interfere-in-us-election/
+neutral 0.820890725436175
+http://www.cbsnews.com/news/jared-kushner-sister-woos-china-golden-visa-investors-eb-5-green-cards/
+neutral 0.8492215307750778
+http://www.cbsnews.com/news/condoleezza-rice-vladimir-putin-trying-to-re-establish-russian-greatness/
+neutral 0.8652864824155775
+http://www.cbsnews.com/news/mulvaney-everybody-will-have-coverage-better-than-obamacare/
+neg 0.5016776982052027
+http://www.cbsnews.com/news/pennsylvania-voters-say-nation-still-divided-after-trumps-first-100-days/
+neg 0.6326570110206021
+http://www.cbsnews.com/news/condoleezza-rice-interview-full-transcript/
+neutral 0.862631419783118
+http://www.cbsnews.com/news/mick-mulvaney-if-fixing-budget-requires-a-shutdown-so-be-it/
+neg 0.5530508644498208
+http://www.cbsnews.com/news/trump-jeanine-pirro-interview/
+neutral 0.8393757378624471
+http://www.cbsnews.com/news/fbi-agents-association-endorses-mike-rogers-for-fbi-director/
+neutral 0.8839453205524629
+http://www.cbsnews.com/news/trump-says-pick-for-next-fbi-director-could-be-announced-within-days/
+neutral 0.8786590391259019
+http://www.cbsnews.com/news/how-to-watch-trumps-liberty-university-commencement-speech/
+neutral 0.8944444335026652
+http://www.cbsnews.com/news/fallout-over-comey-firing-continues-after-tumultuous-week-for-the-white-house/
+neutral 0.8653711594616947
+http://www.cbsnews.com/news/michelle-obama-criticizes-trump-school-lunch-decision/
+neutral 0.9081205985158712
+http://www.cbsnews.com/news/does-firing-james-comey-put-trump-in-legal-jeopardy/
+neutral 0.8466434819651075
+http://www.cbsnews.com/news/here-is-what-robert-gates-says-the-trump-white-house-got-wrong-on-comey/
+neutral 0.8369767967090392
+http://www.cbsnews.com/news/john-dickerson-what-did-deputy-ag-rosenstein-think-would-happen/
+neutral 0.8787532773209209
+http://www.cbsnews.com/news/fact-checking-sean-spicers-remarks-on-comeys-firing-and-russian-collusion/
+neutral 0.9209177672506245
+http://www.cbsnews.com/news/comey-was-nearly-invisible-online-until-trump-fired-him/
+neutral 0.8897999917882737
+http://www.cbsnews.com/news/sean-spicer-in-the-bush-cutout-scores-on-social-media/
+neutral 0.9413767884999057
+http://www.cbsnews.com/news/national-security-adviser-mcmaster-denies-that-trump-gave-classified-info-to-russia/
+neutral 0.9224323853941868
+http://www.cbsnews.com/news/congress-reacts-to-reports-of-trumps-disclosure-of-classified-information/
+neutral 0.8367230926241757
+http://www.cbsnews.com/news/trump-reveals-classified-information-russians-oval-office-report-michael-morell/
+neutral 0.9054520005786192
+http://www.cbsnews.com/news/clinton-launches-political-action-committee-for-advancement-of-democrats/
+neutral 0.9050037898084993
+http://www.cbsnews.com/news/trump-revealed-classified-info-to-russians-at-white-house/
+neutral 0.887318271861406
+http://www.cbsnews.com/news/spicer-refuses-to-provide-clear-answers-on-trumps-tapes-tweet/
+neutral 0.8441120383178983
+http://www.cbsnews.com/news/trump-search-for-fbi-director-moving-rapidly/
+neutral 0.8943680996006572
+http://www.cbsnews.com/news/state-department-says-crematorium-installed-at-syrian-prison/
+neutral 0.9226483585836904
+http://www.cbsnews.com/news/barron-trump-to-attend-st-andrews-episcopal-school/
+neutral 0.8640572390560773
+http://www.cbsnews.com/news/9th-circuit-court-of-appeals-hears-arguments-in-revised-travel-ban-case/
+neutral 0.8939415803051333
+http://www.cbsnews.com/news/report-president-trump-considers-exercise-misguided/
+neutral 0.8611616587798228
+http://www.cbsnews.com/news/former-defense-secretary-robert-gates-on-how-to-tell-the-president-hes-wrong/
+neg 0.5168484727379821
+http://www.cbsnews.com/news/white-house-staff-shakeup-coming/
+neutral 0.9236326546394148
+http://www.cbsnews.com/news/former-cia-deputy-director-michael-morell-on-ransomware-cyberattacks-north-korea-missiles/
+neutral 0.8517927501631711
+http://www.cbsnews.com/news/supreme-court-rejects-appeal-to-reinstate-north-carolina-voter-id-law/
+neutral 0.8419329628933286
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oo_seMotmso/index.html
+neutral 0.8515076047834619
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nzjVdqqSXng/index.html
+neutral 0.8643299544534111
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TUg8bxiI-r0/index.html
+neutral 0.8532608073074681
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lZK4aMgoUTo/index.html
+neutral 0.8958955069983577
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w654xna6Ma8/index.html
+neutral 0.8843236310556232
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bCtCQ3Yevqw/index.html
+neutral 0.9359180532550329
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RRdeaBk9cBI/index.html
+neutral 0.877672832209243
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZbB4rNjM75g/index.html
+neutral 0.8432195917313102
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M6yUMkJZoEg/index.html
+neutral 0.8902807839299959
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5h_oOMKE5bE/index.html
+pos 0.5664804219148286
+
+neg 0.8559025452070168
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XbHYrSVXUY8/index.html
+neutral 0.8945105820104952
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hrnVTOOP_gE/index.html
+neutral 0.8658288647653007
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iREqO8j3i8Y/index.html
+neutral 0.9142997836046618
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4wZpbXuHzpA/index.html
+neutral 0.8696175229717896
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1ZUzXDeSFQ8/index.html
+neutral 0.8741467252513906
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0UZA_goj69w/index.html
+neutral 0.8472663139307482
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KG3tZYPjO5c/index.html
+neutral 0.906905702990422
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/06AlW3hnhP4/index.html
+neutral 0.8423982417651236
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jg4YYa5dVko/index.html
+neutral 0.8398489499654728
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3vIxhuT8ci4/index.html
+neutral 0.8176319451677593
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FP5qIbh7Xf4/index.html
+neutral 0.8854885316964122
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nj-qGbIdY7s/index.html
+neutral 0.8896050068434596
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1_xyq5-ayx4/index.html
+neutral 0.8856745752093795
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h4y6JxuXMVM/index.html
+neutral 0.8709209248227928
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JkgHtpj8B_I/index.html
+neutral 0.8713092496578212
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A2HR5HCliWQ/index.html
+neutral 0.8517248241385761
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/70KqXL-GBhA/index.html
+neutral 0.8609009730542647
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RkhUpKKKIBA/100-days-donald-trump
+neutral 0.8283163367840821
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KA4ykt12cb4/index.html
+neutral 0.8566956017622028
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BuuwaW_C7-U/index.html
+neutral 0.8387212364607036
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cJa9fc4fHvI/index.html
+neutral 0.8313360468521842
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EvHF910IIzg/index.html
+neutral 0.8994118930165443
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aPxS0SqXd5Q/index.html
+neutral 0.8553345023094573
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wJhJ8NAF2Fg/index.html
+neutral 0.8973029699011255
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aQk_qdzRki8/index.html
+neutral 0.8539350351325684
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UjTzp6sH-0E/index.html
+neutral 0.8979123122943046
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DUCEpMd5-6w/index.html
+neutral 0.8276065958779188
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0cKPD70Bdew/index.html
+neutral 0.8920454441853062
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jlhPhiWnPR0/index.html
+neg 0.7176457194334553
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BqiyMJXvbRI/index.html
+neutral 0.864547109326396
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zfUbvTHcR0c/index.html
+neg 0.6208125588551707
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sekdvNeL458/index.html
+neg 0.5530046709257954
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iLObaHS5Cbw/index.html
+pos 0.5412875156967166
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ud9OCxI_WIk/index.html
+neutral 0.9007561961901421
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pl0VbwyEa1Q/index.html
+neutral 0.9099928470948241
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gLXOA1pMH0k/index.html
+neutral 0.8935183143435698
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Et33bINoUtU/index.html
+neutral 0.8396821238900148
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LL6kjkbZU2E/index.html
+neutral 0.839431549150921
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xgvwEpDsyM0/index.html
+neutral 0.8670020308909153
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Fjb2DUVdFKY/index.html
+pos 0.5357779837487987
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tky01nLMOns/index.html
+neutral 0.8601133750797579
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qcWMiN6iGBg/index.html
+neutral 0.8396846616665531
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L4uP9miTKH8/index.html
+neutral 0.837172183243108
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5eiba3K5faA/index.html
+pos 0.5460657650140661
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z7Zzox2Yvf4/index.html
+neutral 0.8737803159392256
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W8GubUen8bY/index.html
+neutral 0.8860121535657641
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1rMUdCDCRW4/index.html
+neutral 0.8216007353084058
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HcIH41FxJBo/index.html
+neutral 0.8705764538504831
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UixoCj2z-RI/index.html
+neutral 0.8532163726593874
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yjkQ7lrClvY/index.html
+neutral 0.9137079687635449
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7pPSHMNe9R0/index.html
+neutral 0.8746404936059878
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QPeg1sWElaw/index.html
+neutral 0.9000210437710437
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mSAXMjjE_MI/index.html
+neutral 0.8795675178283847
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/voipdqpqrlI/index.html
+neutral 0.8608773881742121
+
+neutral 0.9016917460795062
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0W_JFCKqu0w/index.html
+pos 0.5692720530683402
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aQnpy1wyIfU/index.html
+neutral 0.8696286061402038
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t1FjcTK-wmI/index.html
+neutral 0.8663565175379725
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pfC1elm4LWM/index.html
+neutral 0.8977784602784601
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TqufsHx7_Fg/index.html
+neutral 0.8789201175085798
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/maVGFLcCcM0/index.html
+neutral 0.9838326885879106
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dgaLqhuXQXA/index.html
+neutral 0.8832747614949813
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R50LB7NObBA/index.html
+neutral 0.8673696731904746
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2Mfpbz5x-ss/index.html
+neutral 0.8569123965706611
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jobUPRcrbjk/index.html
+neutral 0.8790792829120401
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8lzcKg15IR0/index.html
+neutral 0.9341710490364936
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X6GilO9jIt8/index.html
+neutral 0.8707579849808527
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b2jAVLYBeME/index.html
+neg 0.8597657399710344
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-rFNGjMSdus/index.html
+neutral 0.8839266123283012
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jra9bwmbjtU/index.html
+neutral 0.8796946724594067
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KSr1SJHnhBg/index.html
+neutral 0.8572875793470232
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lSvC-WOFjLI/index.html
+neutral 0.8680035119745027
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VzkWEb9rSOk/index.html
+neutral 0.8522050925820106
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rl9vsGSLsIM/index.html
+neutral 0.8937812567581401
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JKuGnppItno/index.html
+neutral 0.85409356686571
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jN-UdqKOPGc/index.html
+neutral 0.903702799408704
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HPx_oK6pdTw/index.html
+neutral 0.8786149672005532
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/57qhM3lAVZk/index.html
+neutral 0.878275028275012
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CEKjbV_XPNA/index.html
+neutral 0.8663561076594739
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HgYiyH9FkvI/index.html
+neutral 0.8861982160411856
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g9IeysVCapM/index.html
+neutral 0.9130774032459427
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-EXgW9ZFbKo/index.html
+neutral 0.8916665995497054
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sp-tk6g3CUE/index.html
+neutral 0.8560184033429546
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Dczmx3GJzEk/index.html
+neutral 0.8587706786674758
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/90_4x5Cfq9M/index.html
+neutral 0.8549730339872154
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rq1YXzy8PMc/index.html
+neutral 0.8745182291665667
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gKK77--g_dU/index.html
+neutral 0.8358588414453098
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pj1z72PGPPA/index.html
+neutral 0.8695320413921886
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L0I5rPbWVfU/index.html
+neutral 0.8923873442805877
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GHwBYAWSIWI/index.html
+neutral 0.8507725668055247
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U0A9Q_q9I00/index.html
+neutral 0.8779891304284186
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hg2IZW1R5jc/index.html
+neutral 0.8763720656640048
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ttq91Cjlw98/index.html
+neutral 0.8838759313233907
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/najRAYB1wsk/
+neutral 0.8751154401154402
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n2SteLuqcaE/index.html
+neutral 0.8619203397612486
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1rEWK6jyZsc/index.html
+neutral 0.8406356290118738
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G4id8wMBMhU/index.html
+pos 0.6167012811428476
+http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5NW7ia-3d-4/index.html
+neutral 0.8830547370096574
+http://www.latimes.com/nation/politics/la-pol-trump-week-100-days-20170426-story.html
+neutral 0.9058297258297259
+http://www.latimes.com/nation/politics/la-na-pol-trump-rally-20170428-story.html
+neutral 0.8790364583027322
+http://www.latimes.com/nation/politics/la-na-pol-trump-climate-20170428-story.html
+neutral 0.8700526577590434
+http://www.latimes.com/nation/politics/la-fg-tillerson-un-northkorea-20170428-story.html
+neutral 0.865299696142475
+http://www.latimes.com/nation/politics/la-na-pol-congress-shutdown-votes-20170428-story.html
+neutral 0.8579752066105527
+http://www.latimes.com/nation/politics/la-fi-economy-gdp-20170428-story.html
+neutral 0.8925548242636668
+http://www.latimes.com/nation/politics/la-pol-essential-politics-20170428-story.html
+neutral 0.8691801537125148
+http://www.latimes.com/nation/politics/la-na-tt-robots-economy-20170428-story.html
+neutral 0.8686662697314776
+http://www.latimes.com/nation/politics/la-na-pol-trump-100-days-questions-answers-20170429-story.html
+pos 0.5282693456014964
+http://www.latimes.com/nation/politics/la-me-on-politics-column-20170427-story.html
+neutral 0.8802785543041626
+http://www.latimes.com/nation/politics/la-na-house-healthcare-20170427-story.html
+neutral 0.8904159736102093
+http://www.latimes.com/nation/politics/la-na-trump-offshore-drilling-20170427-story.html
+neutral 0.8752481480127873
+http://www.latimes.com/nation/politics/la-na-flynn-investigation-20170427-story.html
+neutral 0.9170385952076092
+http://www.latimes.com/nation/politics/la-na-children-in-immigration-database-20170426-story.html
+neutral 0.8694460477793813
+http://www.latimes.com/nation/politics/la-na-pol-obamacare-republican-bubble-20170427-story.html
+neutral 0.8692848615783454
+http://www.latimes.com/nation/politics/la-na-pol-court-sanctuary-analysis-20170427-story.html
+neutral 0.8751316005584293
+http://www.latimes.com/nation/politics/la-na-national-monuments-pictures-20170426-htmlstory.html
+neutral 0.8515695217480929
+http://www.latimes.com/nation/politics/la-pol-trump-nafta-20170427-story.html
+neutral 0.8928486996494067
+http://www.latimes.com/nation/politics/la-na-tt-reward-wealthy-20170426-story.html
+neutral 0.8576279525518319
+http://www.latimes.com/nation/politics/la-na-pol-trump-paris-20170427-story.html
+neutral 0.8587754616203643
+http://www.latimes.com/nation/politics/la-na-pol-trump-100-days-pueblo-20170427-story.html
+neutral 0.8623538504902141
+http://www.latimes.com/nation/politics/la-pol-sac-republican-climate-change-20170427-story.html
+neutral 0.8685050505028437
+http://www.latimes.com/nation/politics/la-pol-trump-nafta-20170426-story.html
+neutral 0.9123226949875137
+http://www.latimes.com/nation/politics/la-na-pol-trump-tax-20170426-story.html
+neutral 0.8689095079948616
+http://www.latimes.com/nation/politics/la-na-pol-congress-shutdown-talks-20170426-story.html
+neutral 0.8722004626624775
+http://www.latimes.com/nation/politics/la-na-pol-health-reform-california-20170503-story.html
+neutral 0.8356564429803172
+http://www.latimes.com/nation/politics/la-na-pol-house-spending-bill-20170503-story.html
+neutral 0.8522297142936397
+http://www.latimes.com/nation/politics/la-na-pol-comey-senate-20170502-story.html
+neutral 0.8594607641035236
+http://www.latimes.com/nation/politics/la-na-pol-senate-california-retirement-20170503-story.html
+neutral 0.8485714285708489
+http://www.latimes.com/nation/politics/la-fg-trump-abbas-20170503-story.html
+neutral 0.8762121211912591
+http://www.latimes.com/nation/politics/la-fi-federal-reserve-interest-rate-20170503-story.html
+neutral 0.8869974194530323
+http://www.latimes.com/nation/politics/la-fi-jobs-adp-20170503-story.html
+neutral 0.8881076573325055
+http://www.latimes.com/nation/politics/la-na-tt-gop-healthcare-20170502-story.html
+neg 0.8393255153880032
+http://www.latimes.com/nation/politics/la-na-pol-obamacare-congress-20170502-story.html
+neutral 0.8500979030958948
+http://www.latimes.com/nation/politics/la-na-pol-trump-dictators-20170502-story.html
+neutral 0.8712118629898984
+http://www.latimes.com/nation/politics/la-na-pol-jimmy-kimmel-preexisting-conditions-20170502-story.html
+neutral 0.8349292552960231
+http://www.latimes.com/nation/politics/la-na-pol-obamacare-101-preexisting-conditions-20170502-htmlstory.html
+neutral 0.8532953032276804
+http://www.latimes.com/nation/politics/la-fi-trade-deficit-trump-obsession-20170502-htmlstory.html
+neutral 0.8685647941642259
+http://www.latimes.com/nation/politics/la-na-school-lunches-20170501-story.html
+neutral 0.8366901905964395
+http://www.latimes.com/nation/politics/la-na-may-day-protests-20170501-story.html
+neutral 0.8893208399787347
+http://www.latimes.com/nation/politics/la-me-betsy-devos-visit-los-angeles-20170428-story.html
+neutral 0.848315911171123
+http://www.latimes.com/nation/politics/la-na-pol-congress-shrinking-priorities-20170501-story.html
+neutral 0.8602299045578189
+http://www.latimes.com/nation/politics/la-na-pol-trump-wall-20170501-story.html
+pos 0.6092266434861648
+http://www.latimes.com/nation/politics/la-na-pol-court-cities-banks-foreclosure-20170501-story.html
+neutral 0.841711084045535
+http://www.latimes.com/nation/politics/la-fg-pol-haley-un-20170501-story.html
+neutral 0.8731770833333332
+http://www.latimes.com/nation/politics/la-na-pol-congress-budget-deal-20170430-story.html
+neutral 0.8643527667977361
+http://www.latimes.com/nation/politics/la-na-pol-trump-next-challenges-20170430-story.html
+neutral 0.8825079946508518
+http://www.latimes.com/nation/politics/la-fg-pol-trump-overseas-20170504-story.html
+neutral 0.8575281385281386
+http://www.latimes.com/nation/politics/la-na-pol-trump-religious-order-20170504-story.html
+neutral 0.8959274546564973
+http://www.latimes.com/nation/politics/la-na-pol-house-obamacare-vote-20170504-story.html
+neutral 0.8448819274198277
+http://www.latimes.com/nation/politics/la-na-tt-foreign-policy-confusion-20170503-story.html
+neutral 0.8459149828575802
+http://www.latimes.com/nation/politics/la-na-pol-trump-spending-20170502-story.html
+neutral 0.8541377810013153
+http://www.latimes.com/nation/politics/la-na-pol-senate-russia-20170506-story.html
+neutral 0.924220867208672
+http://www.latimes.com/nation/politics/la-na-pol-healthcare-vote-analysis-20170505-story.html
+neutral 0.8424192658546855
+http://www.latimes.com/nation/politics/la-na-pol-trump-deals-20170503-story.html
+neutral 0.8582423164297485
+http://www.latimes.com/nation/politics/la-na-pol-trump-voters-20170507-story.html
+neutral 0.8737176964449692
+http://www.latimes.com/nation/politics/la-pol-essential-politics-20170505-story.html
+neutral 0.8681881849127268
+http://www.latimes.com/nation/politics/la-na-tt-obama-speech-20170504-story.html
+neutral 0.8419225304365071
+http://www.latimes.com/nation/politics/la-na-bedminster-20170504-story.html
+neutral 0.8387127578304048
+http://www.latimes.com/nation/politics/la-na-trump-religious-freedom-20170504-story.html
+neutral 0.866804759782701
+http://www.latimes.com/nation/politics/la-na-texas-sanctuary-law-20170504-story.html
+neutral 0.8660754086810423
+http://www.latimes.com/local/politics/la-me-pc-gov-brown-on-motor-voter-bill-20150917-story.html
+neutral 0.8357676467049925
+http://www.latimes.com/local/politics/la-me-pc-citing-budget-gov-brown-vetoes-several-new-tax-credits-20151010-story.html
+neutral 0.8533578896684754
+http://www.latimes.com/local/politics/la-me-pol-ashley-madison-20150822-story.html
+neutral 0.8344074073430164
+http://www.latimes.com/local/politics/la-me-pol-california-politics-drought-20150802-story.html
+neutral 0.8722892488083221
+http://www.latimes.com/local/politics/la-me-ln-palmdale-council-mayor-investigation-20170505-story.html
+neutral 0.8963233525733525
+http://www.latimes.com/local/politics/la-me-ln-trump-investigate-20170505-story.html
+neutral 0.8792575757571598
+http://www.latimes.com/local/politics/la-me-ln-airbnb-money-20170503-story.html
+neutral 0.8677595850702972
+http://www.latimes.com/local/politics/la-me-ln-hollywood-target-struck-down-20170502-story.html
+neutral 0.8857763433654404
+http://www.latimes.com/local/politics/la-me-ln-essential-california-20170502-story.html
+neutral 0.8581042003264225
+http://www.latimes.com/local/politics/la-me-ln-foster-kids-schools-20170501-story.html
+neutral 0.8438311124009553
+http://www.latimes.com/local/politics/la-me-ln-drilling-site-violations-20170501-story.html
+neutral 0.850068249969134
+http://www.latimes.com/local/politics/la-me-ln-la-riots-unity-meeting-20170429-story.html
+neutral 0.8965263999118166
+http://www.latimes.com/local/politics/la-me-ln-essential-california-20170428-story.html
+neutral 0.867994227994228
+http://www.latimes.com/local/politics/la-me-ln-lapd-budget-overtime-20170427-story.html
+neutral 0.869038585527563
+http://www.latimes.com/local/politics/la-me-ln-bray-ali-reaction-20170427-story.html
+neutral 0.832123914890133
+http://www.latimes.com/local/politics/la-me-ln-bray-ali-website-20170426-story.html
+neutral 0.8584291187633099
+http://www.latimes.com/local/politics/la-me-ln-essential-california-20170426-story.html
+neutral 0.8570137999715465
+http://www.latimes.com/local/politics/la-me-ln-essential-california-20170425-story.html
+neutral 0.8621918776239763
+http://www.latimes.com/local/politics/la-me-pensions-20170421-story.html
+neutral 0.8636945711945062
+http://www.latimes.com/local/politics/la-me-ln-garcetti-budget-20170421-story.html
+neutral 0.8356872690617999
+http://www.latimes.com/local/politics/la-me-ln-essential-california-20170421-story.html
+neutral 0.8947041560732037
+http://www.latimes.com/local/politics/la-me-ln-metro-rider-committee-20170420-story.html
+neutral 0.8437471828406528
+http://www.latimes.com/local/politics/la-me-ln-garcetti-state-of-the-city-20170419-story.html
+neutral 0.8528872468527641
+http://www.latimes.com/local/politics/la-me-ln-ask-mexican-brayali-20170419-story.html
+neutral 0.8773147936503456
+http://www.latimes.com/nation/politics/la-na-travel-ban-appeals-courts-2017-htmlstory.html
+neutral 0.8860623645569882
+http://www.latimes.com/nation/politics/la-na-government-shutdown-timeline-20170504-htmlstory.html
+neutral 0.8615681224505033
+http://www.latimes.com/nation/politics/la-na-pol-travel-ban-arguments-20170508-story.html
+neutral 0.857546258047407
+http://www.latimes.com/nation/politics/la-na-pol-senate-yates-testimony-20170508-story.html
+neutral 0.9076941986234014
+http://www.latimes.com/nation/politics/la-na-pol-travel-ban-legal-analysis-20170508-story.html
+neutral 0.8694273402105427
+http://www.latimes.com/nation/politics/la-na-trump-expenses-20170508-htmlstory.html
+neutral 0.8524715237481195
+http://www.latimes.com/nation/politics/la-na-trump-costs-20170508-story.html
+neutral 0.8568871720331575
+http://www.latimes.com/local/politics/la-me-ln-gondola-20170508-story.html
+neutral 0.848101359794999
+http://rssfeeds.usatoday.com/~/303218540/0/usatodaycomwashington-topstories~On-his-th-day-in-office-Trump-orders-review-of-free-trade-agreements/
+neutral 0.8325634821915745
+http://rssfeeds.usatoday.com/~/303313450/0/usatodaycomwashington-topstories~Will-Samantha-Bee-upstage-White-House-Correspondents-Dinner/
+neutral 0.8909609796583106
+http://rssfeeds.usatoday.com/~/303455040/0/usatodaycomwashington-topstories~EPA-removes-climate-change-data-other-scientific-information-from-website/
+neutral 0.8354821280366296
+http://rssfeeds.usatoday.com/~/303088660/0/usatodaycomwashington-topstories~Diary-of-Trump%e2%80%99s-first-days-Highlights-of-an-unconventional-presidency/
+neutral 0.8954472428635815
+http://rssfeeds.usatoday.com/~/302600981/0/usatodaycomwashington-topstories~Conservationists-alarmed-by-Trump-Interior-nominee/
+neutral 0.8843046107331821
+http://rssfeeds.usatoday.com/~/223123356/0/usatodaycomwashington-topstories~Meet-the-new-US-senators/
+neutral 0.8698524847472217
+http://rssfeeds.usatoday.com/~/135833595/0/usatodaycomwashington-topstories~USA-TODAYs-blog-on-all-things-political
+neutral 0.857311445644779
+http://rssfeeds.usatoday.com/~/71733188/0/usatodaycomwashington-topstories~Capital-Download-Latest-interviews/
+neutral 0.9041467304625191
+http://rssfeeds.usatoday.com/~/160675552/0/usatodaycomwashington-topstories~Congress-and-guns-Key-moments-in-years-of-death-and-debate/
+neutral 0.8394507432602673
+http://rssfeeds.usatoday.com/~/302444956/0/usatodaycomwashington-topstories~This-week-in-OnPolitics-Government-renewed-for-more-days/
+neutral 0.8615316289510053
+http://rssfeeds.usatoday.com/~/302377638/0/usatodaycomwashington-topstories~Trump-may-take-Arizonas-school-tax-credit-program-national/
+neutral 0.8665414555786782
+http://rssfeeds.usatoday.com/~/302308686/0/usatodaycomwashington-topstories~Eye-doctor-accused-of-bribing-Sen-Menendez-convicted-in-Florida-Medicare-fraud/
+neutral 0.8527272727272729
+http://rssfeeds.usatoday.com/~/302288012/0/usatodaycomwashington-topstories~Federal-court-grants-Trump-administration-delay-in-clean-power-case/
+neutral 0.8300003580808246
+http://rssfeeds.usatoday.com/~/302298376/0/usatodaycomwashington-topstories~Social-media-users-cared-most-about-Barron-Trump-travel-ban-in-Trumps-first-days/
+neutral 0.8959473387051796
+http://rssfeeds.usatoday.com/~/302255964/0/usatodaycomwashington-topstories~Trump-to-NRA-The-assault-on-gun-rights-is-over/
+neutral 0.8598259630868327
+http://rssfeeds.usatoday.com/~/302192552/0/usatodaycomwashington-topstories~Republicans-miss-day-target-but-still-feel-pressure-to-get-Obamacare-repeal-done/
+neutral 0.835867366767534
+http://rssfeeds.usatoday.com/~/302145988/0/usatodaycomwashington-topstories~Imagine-the-world-through-President-Trumps-eyes-%e2%80%94-yearbook-style/
+neutral 0.873159389199334
+http://rssfeeds.usatoday.com/~/302113632/0/usatodaycomwashington-topstories~Supreme-Courts-newest-justice-sticks-to-plain-language/
+neutral 0.8587495880204163
+http://rssfeeds.usatoday.com/~/302058718/0/usatodaycomwashington-topstories~Congress-passes-shortterm-funding-bill-to-avoid-government-shutdown/
+neutral 0.8673142465840065
+http://rssfeeds.usatoday.com/~/246615640/0/usatodaycomwashington-topstories~Pomp-and-protests-Inaugurating-a-president-and-his-movement/
+neutral 0.8444103163147014
+http://rssfeeds.usatoday.com/~/239007874/0/usatodaycomwashington-topstories~Exclusive-Tony-Blair-sees-dangerous-times-ahead-for-Western-democracies/
+neutral 0.8669749556924359
+http://rssfeeds.usatoday.com/~/235727824/0/usatodaycomwashington-topstories~Gingrich-calls-Trump-tweet-about-vote-fraud-a-big-mistake/
+pos 0.6273792317001434
+http://rssfeeds.usatoday.com/~/224993008/0/usatodaycomwashington-topstories~Sanders-backs-Trump-protests-questions-Electoral-College/
+neg 0.6541282186156014
+http://rssfeeds.usatoday.com/~/218330552/0/usatodaycomwashington-topstories~Dana-Perino-Trump-candidacy-has-set-GOP-women-adrift/
+neutral 0.8670876935515476
+http://rssfeeds.usatoday.com/~/307742408/0/usatodaycomwashington-topstories~ Drug-makers-use-copay-coupons-to-help-mask-their-rising-drug-prices/
+neutral 0.8517283059869457
+http://rssfeeds.usatoday.com/~/308132219/0/usatodaycomwashington-topstories~Trump-to-sign-executive-order-to-protect-and-vigorously-promote-religious-liberty/
+neutral 0.8927175191064078
+http://rssfeeds.usatoday.com/~/307958848/0/usatodaycomwashington-topstories~Tennessee-lawmakers-pass-week-abortion-ban/
+neutral 0.884183271417314
+http://rssfeeds.usatoday.com/~/308362730/0/usatodaycomwashington-topstories~OnPolitics-Today-Republicans-are-trying-to-decrease-overtime-pay/
+neutral 0.8447612364313537
+http://rssfeeds.usatoday.com/~/307897422/0/usatodaycomwashington-topstories~House-to-vote-Thursday-on-GOP-Obamacare-repeal-bill/
+neutral 0.8459519326796249
+http://rssfeeds.usatoday.com/~/308167965/0/usatodaycomwashington-topstories~Rep-Roe-wont-let-health-care-vote-keep-him-from-getting-to-the-church-on-time/
+neutral 0.8950310315432918
+http://rssfeeds.usatoday.com/~/308281710/0/usatodaycomwashington-topstories~Obamas-speech-could-prompt-Congress-to-go-after-his-pension/
+neutral 0.909646464563374
+http://rssfeeds.usatoday.com/~/308142091/0/usatodaycomwashington-topstories~As-Trump-prepares-to-sign-executive-order-heres-a-history-of-religious-freedom-laws/
+neutral 0.8763334374674568
+http://rssfeeds.usatoday.com/~/308220612/0/usatodaycomwashington-topstories~Sen-Bob-Casey-Trump-administration-sending-yearold-mother-to-possible-deaths/
+neutral 0.846485260770951
+http://rssfeeds.usatoday.com/~/308088807/0/usatodaycomwashington-topstories~House-passes-bill-to-fund-government-through-September/
+neutral 0.8900330465145275
+http://rssfeeds.usatoday.com/~/308137656/0/usatodaycomwashington-topstories~Sean-Spicer-compares-the-election-to-the-Super-Bowl/
+neutral 0.8638279200541349
+http://rssfeeds.usatoday.com/~/308092636/0/usatodaycomwashington-topstories~Oregon-Gov-Kate-Brown-How-Trump-convinced-Democratic-women-to-run-for-office/
+neutral 0.8322161355546212
+http://rssfeeds.usatoday.com/~/307643534/0/usatodaycomwashington-topstories~Democrats-say-they-must-show-how-tax-cuts-may-put-Social-Security-Medicare-at-risk/
+neutral 0.8931273761627997
+http://rssfeeds.usatoday.com/~/307986445/0/usatodaycomwashington-topstories~Iowa-may-be-without-individual-health-plans-if-insurer-pulls-out/
+neutral 0.8687825553561589
+http://rssfeeds.usatoday.com/~/308006750/0/usatodaycomwashington-topstories~Meeting-Palestinian-leader-Abbas-Trump-hopes-for-terrific-peace-deal-in-Middle-East/
+neutral 0.8857142720356245
+http://rssfeeds.usatoday.com/~/307980590/0/usatodaycomwashington-topstories~Heres-what-the-FBIs-James-Comey-said-about-Clintons-emails-Russia-and-WikiLeaks/
+neutral 0.8181642130895469
+http://rssfeeds.usatoday.com/~/307997782/0/usatodaycomwashington-topstories~Obama-unveils-design-vision-for-future-presidential-library/
+neutral 0.9141926406926407
+http://rssfeeds.usatoday.com/~/307980592/0/usatodaycomwashington-topstories~Survey-American-publics-trust-in-government-near-historic-low/
+neutral 0.879915449996212
+http://rssfeeds.usatoday.com/~/307596818/0/usatodaycomwashington-topstories~FBI-Director-James-Comey-mildly-nauseous-Clinton-email-probe-decisions-may-have-impacted-election/
+neutral 0.8844265780449643
+http://rssfeeds.usatoday.com/~/309390001/0/usatodaycomwashington-topstories~ Judge-wont-block- Iowa-law-on-day-wait-for-abortions/
+neutral 0.8383722256578666
+http://rssfeeds.usatoday.com/~/309488646/0/usatodaycomwashington-topstories~Trump-holds-a-makeup-meeting-with-Australia-leader-Malcolm-Turnbull/
+neutral 0.8618378910983638
+http://rssfeeds.usatoday.com/~/309349735/0/usatodaycomwashington-topstories~Trumps-religious-freedom-order-doesnt-change-law-on-political-activity/
+neutral 0.8598163161507735
+http://rssfeeds.usatoday.com/~/309345599/0/usatodaycomwashington-topstories~OnPolitics-Today-Trump-praises-health-care-repeal-that-hasnt-happened-yet/
+neutral 0.8672698904952832
+http://rssfeeds.usatoday.com/~/309471904/0/usatodaycomwashington-topstories~Three-key-findings-in-new-report-analyzes-polling-and-the-election/
+neutral 0.8594539115694614
+http://rssfeeds.usatoday.com/~/309417218/0/usatodaycomwashington-topstories~Republican-converts-were-key-to-passage-of-health-care-bill/
+neutral 0.8480386572247424
+http://rssfeeds.usatoday.com/~/309134306/0/usatodaycomwashington-topstories~Religious-conservatives-mixed-on-Trumps-order-targeting-birth-control-church-involvement-in-politics/
+neutral 0.8594539115694614
+http://rssfeeds.usatoday.com/~/309228485/0/usatodaycomwashington-topstories~Trumps-trade-pick-clears-hurdle-despite-past-foreign-lobbying/
+neutral 0.88400773609016
+http://rssfeeds.usatoday.com/~/309403614/0/usatodaycomwashington-topstories~Health-care-vote-puts-pressure-on-dozens-of-vulnerable-GOP-reps/
+neutral 0.8638983940115885
+http://rssfeeds.usatoday.com/~/309151971/0/usatodaycomwashington-topstories~Trump-claims-victory-on-repealing-Obamacare-but-he-still-has-a-long-way-to-go/
+pos 0.691054385891489
+http://rssfeeds.usatoday.com/~/309406260/0/usatodaycomwashington-topstories~Democrat-Tom-Perriello-crushes-an-ambulance-in-ad-for-Va-gubernatorial-race/
+neutral 0.8661375760497974
+http://rssfeeds.usatoday.com/~/309370686/0/usatodaycomwashington-topstories~After-House-passage-the-Senate-is-likely-to-start-over-on-the-health-care-bill/
+neutral 0.8301223363283876
+http://rssfeeds.usatoday.com/~/309151969/0/usatodaycomwashington-topstories~What-health-insurance-covers-could-change-dramatically-if-AHCA-becomes-law/
+neutral 0.8634364848906806
+http://rssfeeds.usatoday.com/~/308779095/0/usatodaycomwashington-topstories~In-major-victory-for-Republicans-House-passes-Obamacare-repeal/
+neutral 0.8440882700612801
+http://rssfeeds.usatoday.com/~/309072809/0/usatodaycomwashington-topstories~Senate-averts-shutdown-funds-the-government-through-September/
+neutral 0.8662096114593655
+http://rssfeeds.usatoday.com/~/309270628/0/usatodaycomwashington-topstories~President-Trump-deletes-tweet-about-meeting-with-Palestinian-leader-Abbas/
+neutral 0.856603973863208
+http://rssfeeds.usatoday.com/~/309163766/0/usatodaycomwashington-topstories~In-tour-of-major-religions-Trump-will-visit-Saudi-Arabia-Israel-and-Vatican-on-first-foreign-trip/
+neutral 0.888410702772405
+http://rssfeeds.usatoday.com/~/305488467/0/usatodaycomwashington-topstories~May-political-cartoons-from-the-USA-TODAY-Network/
+neutral 0.8770833059822495
+http://rssfeeds.usatoday.com/~/310618141/0/usatodaycomwashington-topstories~This-week-in-OnPolitics-Whats-important-is-that-everyone-tried-their-best/
+neutral 0.8538272028112331
+http://rssfeeds.usatoday.com/~/310561683/0/usatodaycomwashington-topstories~Trump-issues-broad-Bushstyle-signing-statement-on-spending-bill/
+neutral 0.8797854672442389
+http://rssfeeds.usatoday.com/~/310447075/0/usatodaycomwashington-topstories~Trumps-Army-secretary-nominee-withdraws-over-gay-comments/
+neutral 0.8906392295975626
+http://rssfeeds.usatoday.com/~/310778926/0/usatodaycomwashington-topstories~Richard-Burr-and-Mark-Warner-seek-records-from-Trump-associates-in-Russia-probe/
+neutral 0.9446148989898951
+http://rssfeeds.usatoday.com/~/310667934/0/usatodaycomwashington-topstories~Iowa-high-court-halts-states-new-abortion-constraints/
+neutral 0.8641781190564176
+http://rssfeeds.usatoday.com/~/310690976/0/usatodaycomwashington-topstories~Trump-wasnt-actually-endorsing-Australias-universal-health-care-White-House-says/
+neutral 0.8653960618499236
+http://rssfeeds.usatoday.com/~/310372265/0/usatodaycomwashington-topstories~Amid-opioid-epidemic-White-House-may-cut-drug-control-office-budget/
+neutral 0.8696391032269756
+http://rssfeeds.usatoday.com/~/310415389/0/usatodaycomwashington-topstories~Happy-Doggy-Day-Interior-Department/
+neutral 0.8147683362406665
+http://rssfeeds.usatoday.com/~/310651210/0/usatodaycomwashington-topstories~FDA-denies-Fox-News-is-the-only-show-allowed-at-its-headquarters/
+neutral 0.8220690425632159
+http://rssfeeds.usatoday.com/~/310544598/0/usatodaycomwashington-topstories~Are-asylum-seekers-being-turned-away-at-the-border/
+neutral 0.8789139009139006
+http://rssfeeds.usatoday.com/~/310497314/0/usatodaycomwashington-topstories~White-House-fires-its-chief-usher-the-first-woman-to-hold-the-job/
+neutral 0.9197635405087855
+
+neutral 0.8889844746142238
+http://rssfeeds.usatoday.com/~/310037956/0/usatodaycomwashington-topstories~questions-yet-to-be-answered-as-Senate-takes-on-health-care/
+neg 0.5939658428870548
+http://rssfeeds.usatoday.com/~/309417218/0/usatodaycomwashington-topstories~These-House-Republicans-were-key-to-the-health-care-bill/
+neutral 0.8500610438220203
+http://rssfeeds.usatoday.com/~/310098269/0/usatodaycomwashington-topstories~Trump-heads-to-New-Jersey-golf-club-for-working-weekend/
+neutral 0.8540316962515243
+http://rssfeeds.usatoday.com/~/309488646/0/usatodaycomwashington-topstories~Trump-praises-Australias-universal-health-care-in-meeting-with-Prime-Minister-Malcolm-Turnbull/
+neutral 0.8709408901938298
+http://rssfeeds.usatoday.com/~/312822930/0/usatodaycomwashington-topstories~White-House-doubts-states-will-choose-to-charge-sicker-people-more/
+neutral 0.8637868201579257
+http://rssfeeds.usatoday.com/~/312886298/0/usatodaycomwashington-topstories~White-House-defends-lack-of-women-at-health-care-event/
+neutral 0.8537272618410814
+http://rssfeeds.usatoday.com/~/312781938/0/usatodaycomwashington-topstories~Condoleezza-Rice-Dont-be-reassured-by-Marine-Le-Pens-defeat-in-France/
+neutral 0.8644189185484379
+http://rssfeeds.usatoday.com/~/312751054/0/usatodaycomwashington-topstories~Trumps-immigration-travel-ban-faces-familiar-foe-in-appeals-courts-Trump/
+neutral 0.8889179921166631
+http://rssfeeds.usatoday.com/~/312689642/0/usatodaycomwashington-topstories~President-Trump-seizes-on-election-rules-to-push-his-agenda-in-new-ways/
+neutral 0.864777124383232
+http://rssfeeds.usatoday.com/~/310836578/0/usatodaycomwashington-topstories~Trump-issues-broad-Bushstyle-signing-statement-on-spending-bill/
+neutral 0.8797854672430298
+http://rssfeeds.usatoday.com/~/313514579/0/usatodaycomwashington-topstories~Sally-Yates-warned-White-House-that-Michael-Flynn-was-vulnerable-to-Russian-blackmail/
+neutral 0.913157893815492
+http://rssfeeds.usatoday.com/~/314148858/0/usatodaycomwashington-topstories~OnPolitics-Today-Sally-Yates-told-us-so/
+neutral 0.8563997561341904
+http://rssfeeds.usatoday.com/~/314101908/0/usatodaycomwashington-topstories~At-college-commencement-speeches-in-its-a-noTrump-zone-on-most-campuses/
+neutral 0.8554582266871988
+http://rssfeeds.usatoday.com/~/314086319/0/usatodaycomwashington-topstories~Indianas-alternative-Medicaid-program-shows-tradeoffs-of-charging-recipients-for-care/
+neutral 0.8629033453724846
+http://rssfeeds.usatoday.com/~/314041664/0/usatodaycomwashington-topstories~President-Trump-congratulates-Frances-Emmanuel-Macron-on-election/
+neutral 0.9461455334129537
+http://rssfeeds.usatoday.com/~/314009978/0/usatodaycomwashington-topstories~Preventing-Muslim-immigration-statement-disappears-from-Trumps-campaign-site/
+neutral 0.8638359393502254
+http://rssfeeds.usatoday.com/~/313945586/0/usatodaycomwashington-topstories~Trump-names-conservatives-for-federal-courts/
+neutral 0.836099972152569
+http://rssfeeds.usatoday.com/~/313844104/0/usatodaycomwashington-topstories~Bill-Clinton-to-release-novel-with-James-Patterson/
+neutral 0.8706554524152671
+http://rssfeeds.usatoday.com/~/313834622/0/usatodaycomwashington-topstories~Watch-live-Sally-Yates-testifies-to-Congress-on-alleged-Russian-interference-in-presidential-election/
+neutral 0.8966862956210767
+http://rssfeeds.usatoday.com/~/313800056/0/usatodaycomwashington-topstories~Littleknown-Mo-House-member-ends-up-in-middle-of-health-care-debate/
+neutral 0.8489204926006119
+http://rssfeeds.usatoday.com/~/313766654/0/usatodaycomwashington-topstories~JFKs-grandson-Jack-Schlossberg-Without-Obama-I-might-still-be-sitting-on-my-couch/
+neutral 0.8546891524503648
+http://rssfeeds.usatoday.com/~/313723004/0/usatodaycomwashington-topstories~From-Obama%e2%80%99s-JFK-Library-speech-the-most-biting-quotes-about-Trump-and-Republicans/
+neutral 0.8305010444811382
+http://rssfeeds.usatoday.com/~/322306404/0/usatodaycomwashington-topstories~Conservative-media-not-sold-on-story-of-Trump-revealing-classified-info/
+neutral 0.8780968011750048
+http://rssfeeds.usatoday.com/~/322182628/0/usatodaycomwashington-topstories~unanswered-questions-from-latest-TrumpRussia-intelligence-leak/
+neutral 0.898901100911211
+http://rssfeeds.usatoday.com/~/322009428/0/usatodaycomwashington-topstories~Lawmakers-slam-reports-Trump-revealed-classified-intel-to-Russians/
+neutral 0.8972560108123488
+http://rssfeeds.usatoday.com/~/322108614/0/usatodaycomwashington-topstories~Trumps-tweets-on-mishandled-classified-info-come-back-to-haunt-him/
+neutral 0.840049533353696
+http://rssfeeds.usatoday.com/~/322143362/0/usatodaycomwashington-topstories~OnPolitics-Today-Who-needs-spies-when-the-president-might-tell-you-himself/
+neutral 0.8656360348354332
+http://rssfeeds.usatoday.com/~/223123356/0/usatodaycomwashington-topstories~Meet-the-new-US-senators/
+neutral 0.8698522641379784
+http://rssfeeds.usatoday.com/~/135833595/0/usatodaycomwashington-topstories~USA-TODAYs-blog-on-all-things-political
+neutral 0.8772065897065886
+http://rssfeeds.usatoday.com/~/160675552/0/usatodaycomwashington-topstories~Congress-and-guns-Key-moments-in-years-of-death-and-debate/
+neutral 0.8587573486184598
+http://rssfeeds.usatoday.com/~/321971218/0/usatodaycomwashington-topstories~Hillary-Clinton-launches-political-group-Onward-Together-to-counter-Trump/
+neutral 0.8880014430014418
+http://rssfeeds.usatoday.com/~/321825276/0/usatodaycomwashington-topstories~Rep-Trey-Gowdy-a-former-FBI-contender-keeps-making-Republican-short-lists/
+neutral 0.8657016594516581
+http://rssfeeds.usatoday.com/~/321997290/0/usatodaycomwashington-topstories~Trey-Gowdy-drops-out-of-running-for-FBI-Director/
+neutral 0.8717686715321653
+http://rssfeeds.usatoday.com/~/321930992/0/usatodaycomwashington-topstories~Does-Trump-tape-his-conversations-White-House-still-wont-say/
+neutral 0.9049983383397299
+http://rssfeeds.usatoday.com/~/321862116/0/usatodaycomwashington-topstories~Trump-administration-missing-mark-on-opioids-advocates-say/
+neutral 0.8802122452122118
+http://rssfeeds.usatoday.com/~/321825280/0/usatodaycomwashington-topstories~Deputy-Attorney-General-Rosenstein-to-brief-senators-Thursday-on-Comey-firing/
+neutral 0.858744398379297
+http://rssfeeds.usatoday.com/~/321813390/0/usatodaycomwashington-topstories~President-Trump-says-hell-praise-police-while-others-wont/
+neg 0.5343758897954944
+http://rssfeeds.usatoday.com/~/321750237/0/usatodaycomwashington-topstories~How-high-should-Congress-let-flood-insurance-rates-rise-in-program-renewal/
+neutral 0.8675020041686708
+http://rssfeeds.usatoday.com/~/246615640/0/usatodaycomwashington-topstories~Pomp-and-protests-Inaugurating-a-president-and-his-movement/
+neutral 0.8448205749436024
+http://rssfeeds.usatoday.com/~/239007874/0/usatodaycomwashington-topstories~Exclusive-Tony-Blair-sees-dangerous-times-ahead-for-Western-democracies/
+neutral 0.8642939166105629
+http://rssfeeds.usatoday.com/~/235727824/0/usatodaycomwashington-topstories~Gingrich-calls-Trump-tweet-about-vote-fraud-a-big-mistake/
+pos 0.6274847380089122
+http://rssfeeds.usatoday.com/~/224993008/0/usatodaycomwashington-topstories~Sanders-backs-Trump-protests-questions-Electoral-College/
+neg 0.6261412558736327
+http://rssfeeds.usatoday.com/~/218330552/0/usatodaycomwashington-topstories~Dana-Perino-Trump-candidacy-has-set-GOP-women-adrift/
+neutral 0.8670991817113647

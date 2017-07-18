@@ -1,0 +1,54 @@
+http://www.huffingtonpost.com/entry/treasury-department-financial-no-fly-list_us_58e6505ae4b06a4cb30fd7b0?section=us_politics
+Your Financial Life Could Be Ruined If Your Name Is On This Massive Government List
+Muhammed Ali Khan tried to do one of the most boring, responsible things an American taxpayer can do: set up a government-guaranteed retirement savings account. He was rejected because the Treasury Department thought he might be a terrorist. 
+
+He isn’t. He’s a software consultant from Fullerton, California. But he shares a first name (with a different spelling), last name and middle initial with a financier of a Pakistani terror group. That man, Mohammad Naushad Alam Khan, is on the Treasury Department’s Specially Designated Nationals and Blocked Persons List (SDN). The 1,026-page catalog lists people and organizations that U.S. citizens and residents are barred from doing business with because of their ties to terror cells, drug cartels or rogue states.
+
+The SDN is essentially a financial no-fly list that cuts people off from U.S. banks ― and, as a result, the global financial system. The SDN has more than doubled in length in the last five years. 
+
+Khan later found out that his credit reports from Experian and TransUnion had also been flagged as a potential match. The trouble this caused him was relatively minor ― after he got over the shock of seeing a terrorism flag on his credit report, he spent a few hours navigating customer service lines with the Treasury Department and the two credit bureaus. He got his retirement account set up and his credit reports cleared after providing some personal information to show that he was not the man who had financially supported the 2008 Mumbai attacks. (Neither TransUnion nor Experian answered The Huffington Post’s questions about how they handle such false positive flags.)
+
+Some other people wrongly believed to be on the SDN ― either because they share a name with someone who is or because their name partially matches an alias used by someone on the list (and international criminals often have a lot of aliases) ― are hurt far worse than Khan.
+
+They can have their airline ticket purchases rejected or hotel reservations declined. Their bank accounts can be frozen. Loans to buy a home or a car can be declined. Wire transfers can be seized and held for up to a year while the freeze is litigated, which can destroy small businesses, block real estate transactions or delay inheritances. 
+
+Such delays impose “a tremendous burden,” Peter Djinis, a former anti-money laundering regulator at the Treasury Department, told HuffPost.
+
+“It can become a business disadvantage to people whose name just happens to be similar to that of someone actually on the list,” he said. “This is a real problem.”  
+
+Bank accounts can be frozen. Loans to buy a home or a car can be declined. Wire transfers can be seized and held for up to a year. 
+The Treasury Department’s Office of Foreign Assets Control, or OFAC, maintains the SDN list. The catalog was created in 1940, but the department massively increased its efforts to block terrorist financing after the Sept. 11, 2001, attacks.
+
+OFAC is a relatively small office compared to other parts the law enforcement and national security apparatus, although the Treasury Department told HuffPost that OFAC has enough staff and that its size is appropriate relative to U.S. sanctions programs. However, OFAC is especially small relative to its mission of blocking thousands of people from the U.S. financial system. 
+
+This means day-to-day enforcement is largely left up to the private sector.
+
+A Treasury Department spokesman told HuffPost that “OFAC manages individuals and entities on its list in coordination with relevant U.S. government agencies, and has processes in place to ensure that designations are applied appropriately, and to assist and provide due process to anyone who believes they should be removed.”
+
+A whole industry has popped up around this, producing what is known as interdiction software ― programs that banks use to see if a customer’s name matches one on the blocked list. This software produces a staggering volume of hits and leads to lots of false positives, like Khan’s.
+
+Banks tend to be conservative in their risk management, and cast as wide a net as possible to try to stop anything improper. This is because sanctions are enforced under the legal standard of strict liability, meaning any transaction with anybody on the list is illegal, regardless of intention. Fines are steep, too: either $284,000 per violation, or twice the value of the transaction ― whichever is higher. 
+
+Companies that peddle interdiction software turn banks’ worries into a selling point. Yet the software’s results often don’t live up to its promises, and financial institutions are struggling to deal with the mountains of data the software produces. The Treasury Department declined to comment on interdiction software.
+
+A compliance software executive who asked not to be named because it could harm his business told HuffPost that big banks, credit card companies and payment processors can have between 200 and 500 employees who sift through hits and gather information to try to clear false positives from the OFAC list. When a potential client’s name matches one on the list, the financial institution staffers then have to call OFAC to figure out if the person really is on the SDN or if they are dealing with a false positive.
+
+The SDN doesn’t often provide much in the way of specifics ― a name, a few aliases, a nationality and sometimes a date of birth. Financial institutions would like more identifying information about the people on the SDN so they could vet their customers more quickly.
+
+But the government is often hamstrung because it has limited personal information about the people on the list, often because the SDN targets are concealing as much about their lives as possible. The Treasury Department told HuffPost it compiles and releases as much identifying information about the people on the list as it can in order to reduce the number of false positives. The department declined to release data on the number of transactions or transfers halted due to false positives.  
+
+It can become a business disadvantage to people whose name just happens to be similar to that of someone actually on the list.  Peter Djinis, a former anti-money laundering regulator at the Treasury Department 
+False hits ― people like Khan ― are “a bigger problem, not a smaller problem,” explained Djinis, the former regulator. And clearing up false hits is a labor-intensive process.
+
+The safe, simple option for the financial institution is often to just stop doing business with a customer whose name gets flagged.
+
+The complex nature of financial transactions makes this process even more difficult for customers with names that are likely to get wrongly flagged. For instance, a simple money transfer abroad might involve two retail banks and an intermediary bank to facilitate. The transfer can be held up if software run by any of the three banks flags any party involved.
+
+Some financial institutions have tried to fix this by buying more software to help sort through the results ― which is great for the software providers, and could help the people the system has wrongly flagged.  “We are going to make so, so much money selling them stuff to fix this,” the software executive said. 
+
+The application of the SDN list has become “guilt by association,” Shereef Akeel, a civil rights lawyer in Michigan who has worked on the issue, told HuffPost. The Treasury spokesman said the department wasn’t worried that enforcing the list raised any civil rights issue. 
+
+The vast number of false positives, Akeel said, “actually compromises our national security … because everyone is busy looking at all these other names, they don’t have enough time to really catch the bad guys.” 
+
+Instead, Akeel said, the burden falls on people like Khan, who have to try to prove that they are not someone else. Khan succeeded in setting up his retirement fund, but there’s no way for him to proactively tell every U.S. financial institution that he isn’t Mohammad Naushad Alam Khan.
+
