@@ -6,6 +6,6 @@ The goal of our project was to screen news articles from various news stations a
 
 ## Results
 
-Check out the results of our project in our [video presentation](https://www.youtube.com/watch?v=E_Cu2AzA244)
+Check out the details and results of our project in our [video presentation](https://www.youtube.com/watch?v=E_Cu2AzA244)
 
 This project was completed with my partner Elvin Kong as our final project submission for the Machine Learning course at NYU Shanghai
